@@ -3,11 +3,14 @@ import requests
 import time
 import json
 import os
+
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 
+from config import tokens_auth_list
+
 # Токен для авторизации
-tokenAuth = "QSG49tlkZgFpxsdJVjCPTYuq09xFuPye"
+tokenAuth = tokens_auth_list[0]
 
 # Количество потоков (можно увеличить до 30)
 total_threads = 15
