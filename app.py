@@ -12,11 +12,13 @@ from config import tokens_auth_list
 # Токен для авторизации
 tokenAuth = tokens_auth_list[0]
 
+RESUME_INDEX = 6230
+
 # Количество потоков (можно увеличить до 30)
 total_threads = 15
 
 # Индекс, с которого нужно продолжить обработку
-resume_index = 6230
+resume_index = RESUME_INDEX
 
 # Создаем глобальный объект блокировки
 lock = Lock()
@@ -120,7 +122,7 @@ def fetch_data(iinBin):
         return None
 
 
-def process_batch(bins, start, total_threads, resume_index=6230):
+def process_batch(bins, start, total_threads, resume_index=RESUME_INDEX):
     """
     Обрабатывает данные с шагом total_threads, начиная с определенного индекса (resume_index).
     """
