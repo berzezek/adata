@@ -1,0 +1,3302 @@
+[
+    {
+        "bin": "021210500704",
+        "endpoint": "info",
+        "token": "0018308076",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "profit",
+        "token": "0018308073",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "tax",
+        "token": "0018308031",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018308074",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018308054",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018308060",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018308075",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "rating",
+        "token": "0018308067",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "market-dynamics",
+        "token": "0018308049",
+        "status": "not_found"
+    },
+    {
+        "bin": "021210500704",
+        "endpoint": "contract_status",
+        "token": "0018308066",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "info",
+        "token": "0018308166",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "profit",
+        "token": "0018308174",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "tax",
+        "token": "0018308128",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018308158",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018308151",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018308146",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018308177",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "rating",
+        "token": "0018308143",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "market-dynamics",
+        "token": "0018308156",
+        "status": "not_found"
+    },
+    {
+        "bin": "040508550167",
+        "endpoint": "contract_status",
+        "token": "0018308154",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "info",
+        "token": "0018308378",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "profit",
+        "token": "0018308373",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "tax",
+        "token": "0018308335",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018308376",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018308394",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018308359",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018308353",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "rating",
+        "token": "0018308345",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "market-dynamics",
+        "token": "0018308387",
+        "status": "not_found"
+    },
+    {
+        "bin": "610326401946",
+        "endpoint": "contract_status",
+        "token": "0018308360",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "info",
+        "token": "0018308603",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "profit",
+        "token": "0018308551",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "tax",
+        "token": "0018308565",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018308585",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018308569",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018308590",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018308582",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "rating",
+        "token": "0018308583",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "market-dynamics",
+        "token": "0018308577",
+        "status": "not_found"
+    },
+    {
+        "bin": "000603650063",
+        "endpoint": "contract_status",
+        "token": "0018308597",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "info",
+        "token": "0018309061",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "profit",
+        "token": "0018309070",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "tax",
+        "token": "0018309033",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309063",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309080",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309025",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309075",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "rating",
+        "token": "0018309051",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "market-dynamics",
+        "token": "0018309078",
+        "status": "not_found"
+    },
+    {
+        "bin": "600409402130",
+        "endpoint": "contract_status",
+        "token": "0018309067",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "info",
+        "token": "0018309198",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "profit",
+        "token": "0018309165",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "tax",
+        "token": "0018309190",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309180",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309167",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309181",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309200",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "rating",
+        "token": "0018309171",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "market-dynamics",
+        "token": "0018309199",
+        "status": "not_found"
+    },
+    {
+        "bin": "681111540310",
+        "endpoint": "contract_status",
+        "token": "0018309227",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "info",
+        "token": "0018309271",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "profit",
+        "token": "0018309259",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "tax",
+        "token": "0018309254",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309219",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309187",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309261",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309207",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "rating",
+        "token": "0018309243",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "market-dynamics",
+        "token": "0018309195",
+        "status": "not_found"
+    },
+    {
+        "bin": "000901500348",
+        "endpoint": "contract_status",
+        "token": "0018309233",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "info",
+        "token": "0018309410",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "profit",
+        "token": "0018309408",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "tax",
+        "token": "0018309384",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309396",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309417",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309412",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309434",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "rating",
+        "token": "0018309409",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "market-dynamics",
+        "token": "0018309390",
+        "status": "not_found"
+    },
+    {
+        "bin": "030604500120",
+        "endpoint": "contract_status",
+        "token": "0018309427",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "info",
+        "token": "0018309466",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "profit",
+        "token": "0018309397",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "tax",
+        "token": "0018309456",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309382",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309429",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309428",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309441",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "rating",
+        "token": "0018309462",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "market-dynamics",
+        "token": "0018309405",
+        "status": "not_found"
+    },
+    {
+        "bin": "050421500823",
+        "endpoint": "contract_status",
+        "token": "0018309430",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "info",
+        "token": "0018309422",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "profit",
+        "token": "0018309467",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "tax",
+        "token": "0018309418",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309383",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309443",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309446",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309420",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "rating",
+        "token": "0018309445",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "market-dynamics",
+        "token": "0018309421",
+        "status": "not_found"
+    },
+    {
+        "bin": "051218500545",
+        "endpoint": "contract_status",
+        "token": "0018309455",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "info",
+        "token": "0018309415",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "profit",
+        "token": "0018309460",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "tax",
+        "token": "0018309426",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309461",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309505",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309438",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309404",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "rating",
+        "token": "0018309493",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "market-dynamics",
+        "token": "0018309453",
+        "status": "not_found"
+    },
+    {
+        "bin": "070831551523",
+        "endpoint": "contract_status",
+        "token": "0018309414",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "info",
+        "token": "0018309682",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "profit",
+        "token": "0018309613",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "tax",
+        "token": "0018309599",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309595",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309625",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309633",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309632",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "rating",
+        "token": "0018309710",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "market-dynamics",
+        "token": "0018309626",
+        "status": "not_found"
+    },
+    {
+        "bin": "531201350091",
+        "endpoint": "contract_status",
+        "token": "0018309590",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "info",
+        "token": "0018309707",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "profit",
+        "token": "0018309696",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "tax",
+        "token": "0018309751",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309772",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309686",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309849",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309794",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "rating",
+        "token": "0018309739",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "market-dynamics",
+        "token": "0018309863",
+        "status": "not_found"
+    },
+    {
+        "bin": "660208300681",
+        "endpoint": "contract_status",
+        "token": "0018309787",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "info",
+        "token": "0018309831",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "profit",
+        "token": "0018309777",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "tax",
+        "token": "0018309766",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018309767",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018309823",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018309774",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018309773",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "rating",
+        "token": "0018309803",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "market-dynamics",
+        "token": "0018309860",
+        "status": "not_found"
+    },
+    {
+        "bin": "700602000238",
+        "endpoint": "contract_status",
+        "token": "0018309867",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "info",
+        "token": "0018310107",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "profit",
+        "token": "0018310076",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "tax",
+        "token": "0018310084",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310075",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310093",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310127",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310078",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "rating",
+        "token": "0018310085",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "market-dynamics",
+        "token": "0018310105",
+        "status": "not_found"
+    },
+    {
+        "bin": "040625601062",
+        "endpoint": "contract_status",
+        "token": "0018310140",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "info",
+        "token": "0018310126",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "profit",
+        "token": "0018310170",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "tax",
+        "token": "0018310149",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310133",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310131",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310189",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310121",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "rating",
+        "token": "0018310181",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "market-dynamics",
+        "token": "0018310119",
+        "status": "not_found"
+    },
+    {
+        "bin": "060405600071",
+        "endpoint": "contract_status",
+        "token": "0018310142",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "info",
+        "token": "0018310272",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "profit",
+        "token": "0018310266",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "tax",
+        "token": "0018310285",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310353",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310277",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310256",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310321",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "rating",
+        "token": "0018310249",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "market-dynamics",
+        "token": "0018310267",
+        "status": "not_found"
+    },
+    {
+        "bin": "302020300568",
+        "endpoint": "contract_status",
+        "token": "0018310332",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "info",
+        "token": "0018310265",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "profit",
+        "token": "0018310255",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "tax",
+        "token": "0018310253",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310260",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310240",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310397",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310278",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "rating",
+        "token": "0018310292",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "market-dynamics",
+        "token": "0018310269",
+        "status": "not_found"
+    },
+    {
+        "bin": "390128400844",
+        "endpoint": "contract_status",
+        "token": "0018310289",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "info",
+        "token": "0018310586",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "profit",
+        "token": "0018310585",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "tax",
+        "token": "0018310574",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310579",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310593",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310744",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310640",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "rating",
+        "token": "0018310597",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "market-dynamics",
+        "token": "0018310660",
+        "status": "not_found"
+    },
+    {
+        "bin": "011023000209",
+        "endpoint": "contract_status",
+        "token": "0018310576",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "info",
+        "token": "0018310707",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "profit",
+        "token": "0018310636",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "tax",
+        "token": "0018310662",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310652",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310639",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310656",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310668",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "rating",
+        "token": "0018310626",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "market-dynamics",
+        "token": "0018310643",
+        "status": "not_found"
+    },
+    {
+        "bin": "020702651271",
+        "endpoint": "contract_status",
+        "token": "0018310638",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "info",
+        "token": "0018310967",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "profit",
+        "token": "0018310909",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "tax",
+        "token": "0018310930",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018310960",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018310931",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018310926",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018310973",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "rating",
+        "token": "0018310910",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "market-dynamics",
+        "token": "0018310948",
+        "status": "not_found"
+    },
+    {
+        "bin": "330220140814",
+        "endpoint": "contract_status",
+        "token": "0018310908",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "info",
+        "token": "0018311564",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "profit",
+        "token": "0018311597",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "tax",
+        "token": "0018311519",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018311499",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018311521",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018311539",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018311498",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "rating",
+        "token": "0018311563",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "market-dynamics",
+        "token": "0018311593",
+        "status": "not_found"
+    },
+    {
+        "bin": "560504401624",
+        "endpoint": "contract_status",
+        "token": "0018311525",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "info",
+        "token": "0018311673",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "profit",
+        "token": "0018311605",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "tax",
+        "token": "0018311667",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018311647",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018311681",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018311611",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018311663",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "rating",
+        "token": "0018311588",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "market-dynamics",
+        "token": "0018311635",
+        "status": "not_found"
+    },
+    {
+        "bin": "621128450417",
+        "endpoint": "contract_status",
+        "token": "0018311612",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "info",
+        "token": "0018311613",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "profit",
+        "token": "0018311594",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "tax",
+        "token": "0018311585",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018311582",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018311584",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018311572",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018311574",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "rating",
+        "token": "0018311590",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "market-dynamics",
+        "token": "0018311581",
+        "status": "not_found"
+    },
+    {
+        "bin": "640607302346",
+        "endpoint": "contract_status",
+        "token": "0018311576",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "info",
+        "token": "0018312142",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "profit",
+        "token": "0018312133",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "tax",
+        "token": "0018312139",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312285",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312118",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312185",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312136",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "rating",
+        "token": "0018312121",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "market-dynamics",
+        "token": "0018312291",
+        "status": "not_found"
+    },
+    {
+        "bin": "041209501265",
+        "endpoint": "contract_status",
+        "token": "0018312131",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "info",
+        "token": "0018312158",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "profit",
+        "token": "0018312132",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "tax",
+        "token": "0018312152",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312189",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312144",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312209",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312382",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "rating",
+        "token": "0018312219",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "market-dynamics",
+        "token": "0018312198",
+        "status": "not_found"
+    },
+    {
+        "bin": "051126500228",
+        "endpoint": "contract_status",
+        "token": "0018312153",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "info",
+        "token": "0018312530",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "profit",
+        "token": "0018312391",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "tax",
+        "token": "0018312426",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312488",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312420",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312423",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312419",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "rating",
+        "token": "0018312410",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "market-dynamics",
+        "token": "0018312412",
+        "status": "not_found"
+    },
+    {
+        "bin": "591210400041",
+        "endpoint": "contract_status",
+        "token": "0018312422",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "info",
+        "token": "0018312592",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "profit",
+        "token": "0018312597",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "tax",
+        "token": "0018312594",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312599",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312699",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312596",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312658",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "rating",
+        "token": "0018312665",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "market-dynamics",
+        "token": "0018312719",
+        "status": "not_found"
+    },
+    {
+        "bin": "010928500872",
+        "endpoint": "contract_status",
+        "token": "0018312605",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "info",
+        "token": "0018312646",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "profit",
+        "token": "0018312635",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "tax",
+        "token": "0018312640",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312647",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312649",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312634",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312877",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "rating",
+        "token": "0018312631",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "market-dynamics",
+        "token": "0018312633",
+        "status": "not_found"
+    },
+    {
+        "bin": "021027600240",
+        "endpoint": "contract_status",
+        "token": "0018312643",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "info",
+        "token": "0018312826",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "profit",
+        "token": "0018312650",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "tax",
+        "token": "0018312653",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312704",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312705",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312655",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312761",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "rating",
+        "token": "0018312851",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "market-dynamics",
+        "token": "0018312825",
+        "status": "not_found"
+    },
+    {
+        "bin": "021109551145",
+        "endpoint": "contract_status",
+        "token": "0018312759",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "info",
+        "token": "0018312666",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "profit",
+        "token": "0018312765",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "tax",
+        "token": "0018312668",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312700",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312661",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312701",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312716",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "rating",
+        "token": "0018312715",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "market-dynamics",
+        "token": "0018312710",
+        "status": "not_found"
+    },
+    {
+        "bin": "030128000092",
+        "endpoint": "contract_status",
+        "token": "0018312798",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "info",
+        "token": "0018312673",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "profit",
+        "token": "0018312671",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "tax",
+        "token": "0018312672",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312678",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312723",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312837",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312676",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "rating",
+        "token": "0018312669",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "market-dynamics",
+        "token": "0018312810",
+        "status": "not_found"
+    },
+    {
+        "bin": "030306500051",
+        "endpoint": "contract_status",
+        "token": "0018312674",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "info",
+        "token": "0018312707",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "profit",
+        "token": "0018312689",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "tax",
+        "token": "0018312690",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018312820",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018312687",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018312679",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018312698",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "rating",
+        "token": "0018312706",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "market-dynamics",
+        "token": "0018312680",
+        "status": "not_found"
+    },
+    {
+        "bin": "030721600430",
+        "endpoint": "contract_status",
+        "token": "0018312697",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "info",
+        "token": "0018312987",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "profit",
+        "token": "0018313005",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "tax",
+        "token": "0018312994",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018313000",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018313009",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018313010",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018313060",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "rating",
+        "token": "0018313007",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "market-dynamics",
+        "token": "0018313004",
+        "status": "not_found"
+    },
+    {
+        "bin": "660409301583",
+        "endpoint": "contract_status",
+        "token": "0018313078",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "info",
+        "token": "0018313055",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "profit",
+        "token": "0018313052",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "tax",
+        "token": "0018313050",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018313028",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018313046",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018313053",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018313022",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "rating",
+        "token": "0018313044",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "market-dynamics",
+        "token": "0018313054",
+        "status": "not_found"
+    },
+    {
+        "bin": "690207302251",
+        "endpoint": "contract_status",
+        "token": "0018313051",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "info",
+        "token": "0018313317",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "profit",
+        "token": "0018313276",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "tax",
+        "token": "0018313278",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018313265",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018313264",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018313289",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018313274",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "rating",
+        "token": "0018313263",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "market-dynamics",
+        "token": "0018313310",
+        "status": "not_found"
+    },
+    {
+        "bin": "020905501649",
+        "endpoint": "contract_status",
+        "token": "0018313293",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "info",
+        "token": "0018313350",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "profit",
+        "token": "0018313349",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "tax",
+        "token": "0018313362",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018313373",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018313361",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018313372",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018313344",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "rating",
+        "token": "0018313342",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "market-dynamics",
+        "token": "0018313353",
+        "status": "not_found"
+    },
+    {
+        "bin": "041114500538",
+        "endpoint": "contract_status",
+        "token": "0018313345",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "info",
+        "token": "0018313525",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "profit",
+        "token": "0018313555",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "tax",
+        "token": "0018313513",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018313508",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018313530",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018313537",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018313528",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "rating",
+        "token": "0018313542",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "market-dynamics",
+        "token": "0018313596",
+        "status": "not_found"
+    },
+    {
+        "bin": "551110131914",
+        "endpoint": "contract_status",
+        "token": "0018313532",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "info",
+        "token": "0018314085",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "profit",
+        "token": "0018314068",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "tax",
+        "token": "0018314086",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314076",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314074",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314102",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314089",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "rating",
+        "token": "0018314056",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "market-dynamics",
+        "token": "0018314090",
+        "status": "not_found"
+    },
+    {
+        "bin": "070422501404",
+        "endpoint": "contract_status",
+        "token": "0018314064",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "info",
+        "token": "0018314145",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "profit",
+        "token": "0018314149",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "tax",
+        "token": "0018314123",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314119",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314124",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314182",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314161",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "rating",
+        "token": "0018314140",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "market-dynamics",
+        "token": "0018314152",
+        "status": "not_found"
+    },
+    {
+        "bin": "181228601603",
+        "endpoint": "contract_status",
+        "token": "0018314150",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "info",
+        "token": "0018314329",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "profit",
+        "token": "0018314301",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "tax",
+        "token": "0018314326",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314309",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314299",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314336",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314297",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "rating",
+        "token": "0018314320",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "market-dynamics",
+        "token": "0018314298",
+        "status": "not_found"
+    },
+    {
+        "bin": "390722400754",
+        "endpoint": "contract_status",
+        "token": "0018314318",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "info",
+        "token": "0018314379",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "profit",
+        "token": "0018314357",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "tax",
+        "token": "0018314335",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314341",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314350",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314354",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314340",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "rating",
+        "token": "0018314375",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "market-dynamics",
+        "token": "0018314348",
+        "status": "not_found"
+    },
+    {
+        "bin": "560317400858",
+        "endpoint": "contract_status",
+        "token": "0018314365",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "info",
+        "token": "0018314383",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "profit",
+        "token": "0018314384",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "tax",
+        "token": "0018314433",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314387",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314378",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314440",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314380",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "rating",
+        "token": "0018314397",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "market-dynamics",
+        "token": "0018314381",
+        "status": "not_found"
+    },
+    {
+        "bin": "600515450305",
+        "endpoint": "contract_status",
+        "token": "0018314393",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "info",
+        "token": "0018314450",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "profit",
+        "token": "0018314434",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "tax",
+        "token": "0018314438",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314421",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314442",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314399",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314405",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "rating",
+        "token": "0018314394",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "market-dynamics",
+        "token": "0018314443",
+        "status": "not_found"
+    },
+    {
+        "bin": "600911118107",
+        "endpoint": "contract_status",
+        "token": "0018314388",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "info",
+        "token": "0018314937",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "profit",
+        "token": "0018314940",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "tax",
+        "token": "0018314995",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314944",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018314975",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018314933",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314967",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "rating",
+        "token": "0018314929",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "market-dynamics",
+        "token": "0018314978",
+        "status": "not_found"
+    },
+    {
+        "bin": "841018400488",
+        "endpoint": "contract_status",
+        "token": "0018314934",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "info",
+        "token": "0018315011",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "profit",
+        "token": "0018314992",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "tax",
+        "token": "0018315010",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018314996",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018315008",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018315015",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018314998",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "rating",
+        "token": "0018315005",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "market-dynamics",
+        "token": "0018315012",
+        "status": "not_found"
+    },
+    {
+        "bin": "841022350995",
+        "endpoint": "contract_status",
+        "token": "0018315018",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "info",
+        "token": "0018315061",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "profit",
+        "token": "0018315066",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "tax",
+        "token": "0018315085",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018315054",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018315052",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018315063",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018315070",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "rating",
+        "token": "0018315064",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "market-dynamics",
+        "token": "0018315076",
+        "status": "not_found"
+    },
+    {
+        "bin": "700210300820",
+        "endpoint": "contract_status",
+        "token": "0018315109",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "info",
+        "token": "0018315265",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "profit",
+        "token": "0018315245",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "tax",
+        "token": "0018315243",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018315242",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018315251",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018315235",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018315293",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "rating",
+        "token": "0018315269",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "market-dynamics",
+        "token": "0018315248",
+        "status": "not_found"
+    },
+    {
+        "bin": "760408301380",
+        "endpoint": "contract_status",
+        "token": "0018315284",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "info",
+        "token": "0018315461",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "profit",
+        "token": "0018315479",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "tax",
+        "token": "0018315421",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018315420",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018315485",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018315467",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018315530",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "rating",
+        "token": "0018315466",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "market-dynamics",
+        "token": "0018315462",
+        "status": "not_found"
+    },
+    {
+        "bin": "801222301134",
+        "endpoint": "contract_status",
+        "token": "0018315452",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "info",
+        "token": "0018315584",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "profit",
+        "token": "0018315551",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "tax",
+        "token": "0018315575",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018315548",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018315648",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018315560",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018315561",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "rating",
+        "token": "0018315620",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "market-dynamics",
+        "token": "0018315622",
+        "status": "not_found"
+    },
+    {
+        "bin": "820819450363",
+        "endpoint": "contract_status",
+        "token": "0018315649",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "info",
+        "token": "0018316519",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "profit",
+        "token": "0018316516",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "tax",
+        "token": "0018316507",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018316517",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018316515",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018316564",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018316625",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "rating",
+        "token": "0018316499",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "market-dynamics",
+        "token": "0018316634",
+        "status": "not_found"
+    },
+    {
+        "bin": "770901302559",
+        "endpoint": "contract_status",
+        "token": "0018316523",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "info",
+        "token": "0018316575",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "profit",
+        "token": "0018316667",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "tax",
+        "token": "0018316565",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018316833",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018316587",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018316585",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018316577",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "rating",
+        "token": "0018316674",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "market-dynamics",
+        "token": "0018316867",
+        "status": "not_found"
+    },
+    {
+        "bin": "790404301344",
+        "endpoint": "contract_status",
+        "token": "0018316602",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "info",
+        "token": "0018317038",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "profit",
+        "token": "0018317011",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "tax",
+        "token": "0018317043",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018317029",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018317080",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018317037",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018317181",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "rating",
+        "token": "0018317073",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "market-dynamics",
+        "token": "0018317039",
+        "status": "not_found"
+    },
+    {
+        "bin": "000909600902",
+        "endpoint": "contract_status",
+        "token": "0018317042",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "info",
+        "token": "0018317719",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "profit",
+        "token": "0018317188",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "tax",
+        "token": "0018317355",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018317190",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018317180",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018317177",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018317252",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "rating",
+        "token": "0018317264",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "market-dynamics",
+        "token": "0018317208",
+        "status": "not_found"
+    },
+    {
+        "bin": "030308550574",
+        "endpoint": "contract_status",
+        "token": "0018317207",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "info",
+        "token": "0018317561",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "profit",
+        "token": "0018317550",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "tax",
+        "token": "0018317559",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "estimated-wage-fund",
+        "token": "0018317774",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "tax-deduction_kbk",
+        "token": "0018317551",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "tax-deduction_extended",
+        "token": "0018317558",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "tax-deduction_dynamics",
+        "token": "0018317564",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "rating",
+        "token": "0018317553",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "market-dynamics",
+        "token": "0018317578",
+        "status": "not_found"
+    },
+    {
+        "bin": "620404301589",
+        "endpoint": "contract_status",
+        "token": "0018317557",
+        "status": "not_found"
+    }
+]
