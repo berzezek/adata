@@ -1,0 +1,2930 @@
+[
+  {
+    "bin": "180340021395",
+    "endpoint": "info",
+    "data": {
+      "basic": {
+        "name_kgd": null,
+        "name_ru": "ТОВАРИЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КАЗСТРОЙ АСТАНА\"",
+        "name_kz": "\"КАЗСТРОЙ АСТАНА\" ЖАУАПКЕРШІЛІГІ ШЕКТЕУЛІ СЕРІКТЕСТІГІ",
+        "short_name": "ТОО \"КАЗСТРОЙ АСТАНА\"",
+        "biin": "180340021395",
+        "legal_address": "город Астана, район Сарыарка, улица Ықылас Дүкенұлы, дом, 21/1, кв. 99",
+        "legal_address_kz": "Астана қаласы Сарыарқа ауданы Ықылас Дүкенұлы көшесі үй 21/1 пәт. 99",
+        "oked_id": "43390",
+        "oked": "Прочие отделочные работы",
+        "id_kato": 711310000,
+        "kato_name": "РАЙОН САРЫАРКА",
+        "id_krp": 105,
+        "fullname_director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ",
+        "director_iin": null,
+        "director_iin_formatted": null,
+        "director_start_date": null,
+        "date_registration": "2018-03-16",
+        "end_date": null,
+        "krp": "Малые предприятия (<= 5)",
+        "company_problems": false,
+        "financial_problems": false,
+        "unreliable_zakup": false,
+        "head_problems": true,
+        "counterparty_type": "company",
+        "is_nds_payer": false,
+        "okeds": [
+          {
+            "i": "43390",
+            "name_ru": "Прочие отделочные работы"
+          },
+          {
+            "i": "46190",
+            "name_ru": "Деятельность агентов по оптовой торговле товарами широкого ассортимента"
+          }
+        ],
+        "secondary_okeds": [
+          {
+            "i": "46190",
+            "name_ru": "Деятельность агентов по оптовой торговле товарами широкого ассортимента"
+          }
+        ],
+        "source_link": "https://pk.adata.kz/company/180340021395",
+        "type_of_ownership": "Частная собственность",
+        "legal_form": "Товарищество с ограниченной ответственностью"
+      },
+      "status": {
+        "company_status": true,
+        "pseudo_company": false,
+        "bankcrupt": false,
+        "inactive": false,
+        "absent_at_address": false,
+        "registration_invalid": false,
+        "violation_tax": false,
+        "tax_debt": 0
+      },
+      "riskFactor": {
+        "company": {
+          "bankrupt": false,
+          "tax_risk_degree": "средняя",
+          "irresponsible_taxpayer": false,
+          "liquidating_taxpayer": false,
+          "ban_leaving": false,
+          "ban_leaving_sum": 0,
+          "enforcement_debt": false,
+          "enforcement_debt_sum": 0,
+          "seized_property": false,
+          "seized_bank_account": false,
+          "ban_registration_actions_legal_ent": false,
+          "ban_registration_actions_physical_ent": false,
+          "ban_notarius_actions": false,
+          "ban_seized_property_actions": false,
+          "encumbrance": null
+        },
+        "head": {
+          "terrorist": false,
+          "terrorism_involved": false,
+          "pedophile": false,
+          "alimony_payer": false,
+          "missing": false,
+          "debtor_for_executive_documents": false,
+          "citizen_hiding_from_investigation": false,
+          "ban_leaving": false,
+          "ban_leaving_sum": 0,
+          "enforcement_debt": false,
+          "enforcement_debt_sum": 0,
+          "seized_property": false,
+          "seized_bank_account": false,
+          "ban_registration_actions_legal_ent": false,
+          "ban_registration_actions_physical_ent": false,
+          "ban_notarius_actions": false,
+          "ban_seized_property_actions": false,
+          "tax_debt": 0,
+          "litigation": {
+            "total_civil_count": 0,
+            "total_criminal_count": 0,
+            "total_administrative_count": 1,
+            "court_cases": [
+              {
+                "year": "2019",
+                "civil_count": 0,
+                "criminal_count": 0,
+                "administrative_count": 1,
+                "appk_count": 0
+              }
+            ],
+            "total_appk_count": 0
+          }
+        }
+      },
+      "taxDeductions": {
+        "sum": 5536404.71,
+        "details": [
+          {
+            "amount": 1203926.41,
+            "year": 2025
+          },
+          {
+            "amount": 1961175.15,
+            "year": 2024
+          },
+          {
+            "amount": 1145123.15,
+            "year": 2023
+          },
+          {
+            "amount": 218219,
+            "year": 2022
+          },
+          {
+            "amount": 137573,
+            "year": 2021
+          },
+          {
+            "amount": 530926,
+            "year": 2020
+          },
+          {
+            "amount": 291020,
+            "year": 2019
+          },
+          {
+            "amount": 48442,
+            "year": 2018
+          }
+        ]
+      },
+      "litigation": {
+        "total_civil_count": 0,
+        "total_criminal_count": 0,
+        "total_administrative_count": 0,
+        "total_appk_count": 0,
+        "court_cases": []
+      },
+      "founders": {
+        "founders_cnt": 1,
+        "founders_dtl": [
+          {
+            "name": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ",
+            "is_company": false,
+            "start_date": "2014-05-21"
+          }
+        ]
+      },
+      "connectedDiagram": {
+        "affiliation_by_company": [],
+        "affiliation_by_head": {
+          "head_name": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ",
+          "companies": [
+            {
+              "bin": "180340021395",
+              "type": "Руководитель",
+              "name": "ТОО \"КАЗСТРОЙ АСТАНА\"",
+              "bin_formatted": "180340021395",
+              "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+            },
+            {
+              "bin": "180340021395",
+              "type": "Учредитель",
+              "name": "ТОО \"КАЗСТРОЙ АСТАНА\"",
+              "bin_formatted": "180340021395",
+              "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+            },
+            {
+              "bin": "200240019217",
+              "type": "Учредитель",
+              "name": "ТОО \"INPOVIS\"",
+              "bin_formatted": "200240019217",
+              "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+            },
+            {
+              "bin": "980509302026",
+              "type": "Руководитель",
+              "name": "ИП UNITYMITT",
+              "bin_formatted": "980509302026",
+              "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+            }
+          ]
+        },
+        "affiliation_by_founder": [
+          {
+            "founder_name": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ",
+            "founder_biin": 980509302026,
+            "founder_biin_formatted": "980509302026",
+            "companies": [
+              {
+                "type": "Учредитель",
+                "name": "ТОО \"КАЗСТРОЙ АСТАНА\"",
+                "bin": "180340021395",
+                "bin_formatted": "180340021395",
+                "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+              },
+              {
+                "type": "Руководитель",
+                "name": "ТОО \"КАЗСТРОЙ АСТАНА\"",
+                "bin": "180340021395",
+                "bin_formatted": "180340021395",
+                "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+              },
+              {
+                "type": "Учредитель",
+                "name": "ТОО \"INPOVIS\"",
+                "bin": "200240019217",
+                "bin_formatted": "200240019217",
+                "director": "ШЫМБАЕВ ТУРЕХАН НУРАЛИЕВИЧ"
+              },
+              {
+                "type": "Руководитель",
+                "name": "ИП UNITYMITT",
+                "bin": "980509302026",
+                "bin_formatted": "980509302026",
+                "director": "АНТРОПОВ ИЛЬЯ СЕРГЕЕВИЧ"
+              }
+            ]
+          }
+        ]
+      },
+      "licenseGeneral": {
+        "total_licenses_count": 0,
+        "total_other_docs_count": 0,
+        "details": []
+      },
+      "contract": {
+        "total_count": 1,
+        "total_sum": 2000,
+        "details": [
+          {
+            "year": "2025",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2024",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2023",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2022",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2021",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "Пред. период",
+            "count": 1,
+            "sum": 2000
+          }
+        ]
+      }
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "profit",
+    "data": [
+      {
+        "year": "2018",
+        "amount": 37500
+      },
+      {
+        "year": "2019",
+        "amount": 861675
+      },
+      {
+        "year": "2020",
+        "amount": 1040320
+      },
+      {
+        "year": "2021",
+        "amount": 0
+      },
+      {
+        "year": "2022",
+        "amount": 0
+      },
+      {
+        "year": "2023",
+        "amount": 2271090.75
+      },
+      {
+        "year": "2024",
+        "amount": 4117260
+      },
+      {
+        "year": "2025",
+        "amount": 2973760
+      }
+    ],
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "tax",
+    "data": {
+      "sum": 5536404.71,
+      "details": [
+        {
+          "amount": 1203926.41,
+          "year": 2025
+        },
+        {
+          "amount": 1961175.15,
+          "year": 2024
+        },
+        {
+          "amount": 1145123.15,
+          "year": 2023
+        },
+        {
+          "amount": 218219,
+          "year": 2022
+        },
+        {
+          "amount": 137573,
+          "year": 2021
+        },
+        {
+          "amount": 530926,
+          "year": 2020
+        },
+        {
+          "amount": 291020,
+          "year": 2019
+        },
+        {
+          "amount": 48442,
+          "year": 2018
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "estimated-wage-fund",
+    "data": {
+      "bar": [
+        {
+          "year": "2022",
+          "part": 5,
+          "amount": 0
+        },
+        {
+          "year": "2022",
+          "part": 6,
+          "amount": 516000
+        },
+        {
+          "year": "2022",
+          "part": 7,
+          "amount": 0
+        },
+        {
+          "year": "2022",
+          "part": 8,
+          "amount": 260000
+        },
+        {
+          "year": "2022",
+          "part": 9,
+          "amount": 0
+        },
+        {
+          "year": "2022",
+          "part": 10,
+          "amount": 0
+        },
+        {
+          "year": "2022",
+          "part": 11,
+          "amount": 54550
+        },
+        {
+          "year": "2022",
+          "part": 12,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 3,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 4,
+          "amount": 636360
+        },
+        {
+          "year": "2023",
+          "part": 5,
+          "amount": 15000
+        },
+        {
+          "year": "2023",
+          "part": 6,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 7,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 8,
+          "amount": 435191.7
+        },
+        {
+          "year": "2023",
+          "part": 9,
+          "amount": 367.2
+        },
+        {
+          "year": "2023",
+          "part": 10,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 11,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 12,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 3,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 4,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 5,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 6,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 7,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 8,
+          "amount": 613634.5
+        },
+        {
+          "year": "2024",
+          "part": 9,
+          "amount": 337964
+        },
+        {
+          "year": "2024",
+          "part": 10,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 11,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 12,
+          "amount": 520000
+        },
+        {
+          "year": "2025",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 3,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 4,
+          "amount": 0
+        }
+      ],
+      "line": [
+        {
+          "year": "2018",
+          "amount": 199680
+        },
+        {
+          "year": "2019",
+          "amount": 180000
+        },
+        {
+          "year": "2020",
+          "amount": 810000
+        },
+        {
+          "year": "2021",
+          "amount": 810900
+        },
+        {
+          "year": "2022",
+          "amount": 1189550
+        },
+        {
+          "year": "2023",
+          "amount": 1056360
+        },
+        {
+          "year": "2024",
+          "amount": 1397730
+        },
+        {
+          "year": "2025",
+          "amount": 0
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "tax-deduction_kbk",
+    "data": {
+      "line": [
+        {
+          "bcc": 103101,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 3180
+            },
+            {
+              "year": 2019,
+              "amount": 94385
+            },
+            {
+              "year": 2020,
+              "amount": 195104
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 494064
+            },
+            {
+              "year": 2024,
+              "amount": 805602
+            },
+            {
+              "year": 2025,
+              "amount": 594752
+            }
+          ],
+          "name": "Социальный налог"
+        },
+        {
+          "bcc": 101111,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 0
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 208064
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 454218.15
+            },
+            {
+              "year": 2024,
+              "amount": 823452
+            },
+            {
+              "year": 2025,
+              "amount": 594752
+            }
+          ],
+          "name": "Корпоративный подоходный налог с юридических лиц, за исключением поступлений от субъектов крупного предпринимательства и организаций нефтяного сектора"
+        },
+        {
+          "bcc": 901101,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 19968
+            },
+            {
+              "year": 2019,
+              "amount": 18000
+            },
+            {
+              "year": 2020,
+              "amount": 81000
+            },
+            {
+              "year": 2021,
+              "amount": 81090
+            },
+            {
+              "year": 2022,
+              "amount": 118955
+            },
+            {
+              "year": 2023,
+              "amount": 105636
+            },
+            {
+              "year": 2024,
+              "amount": 139773
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Поступления в пенсионный фонд 901101"
+        },
+        {
+          "bcc": 904101,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 2994
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 17850
+            },
+            {
+              "year": 2021,
+              "amount": 28654
+            },
+            {
+              "year": 2022,
+              "amount": 57227
+            },
+            {
+              "year": 2023,
+              "amount": 52818
+            },
+            {
+              "year": 2024,
+              "amount": 69887
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование"
+        },
+        {
+          "bcc": 902101,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 7290
+            },
+            {
+              "year": 2019,
+              "amount": 6300
+            },
+            {
+              "year": 2020,
+              "amount": 27408
+            },
+            {
+              "year": 2021,
+              "amount": 27447
+            },
+            {
+              "year": 2022,
+              "amount": 39675
+            },
+            {
+              "year": 2023,
+              "amount": 36750
+            },
+            {
+              "year": 2024,
+              "amount": 46725
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Поступления социальных отчислений"
+        },
+        {
+          "bcc": 101110,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 7500
+            },
+            {
+              "year": 2019,
+              "amount": 172335
+            },
+            {
+              "year": 2020,
+              "amount": 0
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 0
+            },
+            {
+              "year": 2024,
+              "amount": 0
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Корпоративный подоходный налог с юридических лиц – субъектов крупного предпринимательства, за исключением поступлений от организаций нефтяного сектора"
+        },
+        {
+          "bcc": 101201,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 2700
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 1500
+            },
+            {
+              "year": 2021,
+              "amount": 382
+            },
+            {
+              "year": 2022,
+              "amount": 2362
+            },
+            {
+              "year": 2023,
+              "amount": 1637
+            },
+            {
+              "year": 2024,
+              "amount": 33085
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты."
+        },
+        {
+          "bcc": 108126,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 0
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 0
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 0
+            },
+            {
+              "year": 2024,
+              "amount": 22701.15
+            },
+            {
+              "year": 2025,
+              "amount": 14422.41
+            }
+          ],
+          "name": "Государственная пошлина, зачисляемая в местный бюджет"
+        },
+        {
+          "bcc": 905101,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 0
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 0
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 0
+            },
+            {
+              "year": 2024,
+              "amount": 19950
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Обязательные пенсионные взносы работодателя"
+        },
+        {
+          "bcc": 105429,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 4810
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 0
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 0
+            },
+            {
+              "year": 2024,
+              "amount": 0
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Регистрационный сбор, зачисляемый в местный бюджет"
+        },
+        {
+          "bcc": 204175,
+          "value": [
+            {
+              "year": 2018,
+              "amount": 0
+            },
+            {
+              "year": 2019,
+              "amount": 0
+            },
+            {
+              "year": 2020,
+              "amount": 0
+            },
+            {
+              "year": 2021,
+              "amount": 0
+            },
+            {
+              "year": 2022,
+              "amount": 0
+            },
+            {
+              "year": 2023,
+              "amount": 0
+            },
+            {
+              "year": 2024,
+              "amount": 0
+            },
+            {
+              "year": 2025,
+              "amount": 0
+            }
+          ],
+          "name": "Адм. штрафы, пени, санкции, взыскания, нал.Агентством по страт. планированию и реформам РК, его тер-ми органами фин. из респ. бюджета, за исключением поступлений от организаций нефт. сектора"
+        }
+      ],
+      "pie": [
+        {
+          "bcc": 103101,
+          "bcc_name": "Социальный налог",
+          "sum": 2187087
+        },
+        {
+          "bcc": 101111,
+          "bcc_name": "Корпоративный подоходный налог с юридических лиц, за исключением поступлений от субъектов крупного предпринимательства и организаций нефтяного сектора",
+          "sum": 2080486.15
+        },
+        {
+          "bcc": 901101,
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "sum": 564422
+        },
+        {
+          "bcc": 904101,
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "sum": 229430
+        },
+        {
+          "bcc": 902101,
+          "bcc_name": "Поступления социальных отчислений",
+          "sum": 191595
+        },
+        {
+          "bcc": 101110,
+          "bcc_name": "Корпоративный подоходный налог с юридических лиц – субъектов крупного предпринимательства, за исключением поступлений от организаций нефтяного сектора",
+          "sum": 179835
+        },
+        {
+          "bcc": 101201,
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "sum": 41666
+        },
+        {
+          "bcc": 108126,
+          "bcc_name": "Государственная пошлина, зачисляемая в местный бюджет",
+          "sum": 37123.56
+        },
+        {
+          "bcc": 905101,
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "sum": 19950
+        },
+        {
+          "bcc": 105429,
+          "bcc_name": "Регистрационный сбор, зачисляемый в местный бюджет",
+          "sum": 4810
+        },
+        {
+          "bcc": 204175,
+          "bcc_name": "Адм. штрафы, пени, санкции, взыскания, нал.Агентством по страт. планированию и реформам РК, его тер-ми органами фин. из респ. бюджета, за исключением поступлений от организаций нефт. сектора",
+          "sum": 0
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "tax-deduction_extended",
+    "data": {
+      "total": 255,
+      "current_page": 1,
+      "last_page": 6,
+      "details": [
+        {
+          "bcc_name": "Государственная пошлина, зачисляемая в местный бюджет",
+          "bcc": 108126,
+          "amount": "14422.41",
+          "org_name": "УГД по Байконурскому району ДГД по г. Астана",
+          "write_off_date": "2025-03-31",
+          "receipt_date": "2025-03-31",
+          "entry_name": "Возврат",
+          "pay_name": "Налог",
+          "entry_code": "refund",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Социальный налог",
+          "bcc": 103101,
+          "amount": "594752.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2025-03-28",
+          "receipt_date": "2025-03-28",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Корпоративный подоходный налог с юридических лиц, за исключением поступлений от субъектов крупного предпринимательства и организаций нефтяного сектора",
+          "bcc": 101111,
+          "amount": "185217.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2025-03-28",
+          "receipt_date": "2025-03-28",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Корпоративный подоходный налог с юридических лиц, за исключением поступлений от субъектов крупного предпринимательства и организаций нефтяного сектора",
+          "bcc": 101111,
+          "amount": "409535.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2025-02-28",
+          "receipt_date": "2025-02-28",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Адм. штрафы, пени, санкции, взыскания, нал.Агентством по страт. планированию и реформам РК, его тер-ми органами фин. из респ. бюджета, за исключением поступлений от организаций нефт. сектора",
+          "bcc": 204175,
+          "amount": "27524.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2025-01-20",
+          "receipt_date": "2025-01-20",
+          "entry_name": "Платеж",
+          "pay_name": "Штраф",
+          "entry_code": "payment",
+          "pay_code": "fine"
+        },
+        {
+          "bcc_name": "Государственная пошлина, зачисляемая в местный бюджет",
+          "bcc": 108126,
+          "amount": "14422.41",
+          "org_name": "УГД по Байконурскому району ДГД по г. Астана",
+          "write_off_date": "2025-01-14",
+          "receipt_date": "2025-01-15",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "2600.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "bcc": 905101,
+          "amount": "1950.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "13000.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "bcc": 905101,
+          "amount": "1950.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "3900.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "2600.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "3900.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "bcc": 905101,
+          "amount": "1950.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "4095.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "4095.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "6271.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "3900.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "13000.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "13000.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "6271.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "6271.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "2600.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "3900.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "4095.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "2600.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "bcc": 905101,
+          "amount": "1950.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "4095.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "6271.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "13000.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-12-31",
+          "receipt_date": "2024-12-31",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Государственная пошлина, зачисляемая в местный бюджет",
+          "bcc": 108126,
+          "amount": "4149.90",
+          "org_name": "УГД по Есильскому району ДГД по г. Астана",
+          "write_off_date": "2024-10-23",
+          "receipt_date": "2024-10-24",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "1.08",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-27",
+          "receipt_date": "2024-09-27",
+          "entry_name": "Платеж",
+          "pay_name": "Пеня",
+          "entry_code": "payment",
+          "pay_code": "surcharge"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "0.53",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-27",
+          "receipt_date": "2024-09-27",
+          "entry_name": "Платеж",
+          "pay_name": "Пеня",
+          "entry_code": "payment",
+          "pay_code": "surcharge"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "0.69",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-27",
+          "receipt_date": "2024-09-27",
+          "entry_name": "Платеж",
+          "pay_name": "Пеня",
+          "entry_code": "payment",
+          "pay_code": "surcharge"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "3638.16",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Пеня",
+          "entry_code": "payment",
+          "pay_code": "surcharge"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "1400.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "2100.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "1801.49",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Пеня",
+          "entry_code": "payment",
+          "pay_code": "surcharge"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "133.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "2450.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "7000.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления социальных отчислений",
+          "bcc": 902101,
+          "amount": "879.21",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-26",
+          "receipt_date": "2024-09-26",
+          "entry_name": "Платеж",
+          "pay_name": "Пеня",
+          "entry_code": "payment",
+          "pay_code": "surcharge"
+        },
+        {
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "bcc": 905101,
+          "amount": "1950.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-19",
+          "receipt_date": "2024-09-19",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "2482.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-19",
+          "receipt_date": "2024-09-19",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления отчислений и взносов на обязательное социальное медицинское страхование",
+          "bcc": 904101,
+          "amount": "3900.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-19",
+          "receipt_date": "2024-09-19",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Обязательные пенсионные взносы работодателя",
+          "bcc": 905101,
+          "amount": "1275.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-19",
+          "receipt_date": "2024-09-19",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "6271.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-19",
+          "receipt_date": "2024-09-19",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Индивидуальный подоходный налог с доходов, облагаемых у источника выплаты.",
+          "bcc": 101201,
+          "amount": "211.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-19",
+          "receipt_date": "2024-09-19",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "13000.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-18",
+          "receipt_date": "2024-09-18",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        },
+        {
+          "bcc_name": "Поступления в пенсионный фонд 901101",
+          "bcc": 901101,
+          "amount": "8273.00",
+          "org_name": "УГД по Сарыаркинскому району ДГД по г. Астана",
+          "write_off_date": "2024-09-18",
+          "receipt_date": "2024-09-18",
+          "entry_name": "Платеж",
+          "pay_name": "Налог",
+          "entry_code": "payment",
+          "pay_code": "tax"
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "tax-deduction_dynamics",
+    "data": {
+      "tax_org_name": "УГД по Байконурскому району ДГД по г. Астана",
+      "total_tax_amount": 5536404.71,
+      "last_year": "2025",
+      "tax_dynamics_by_year": [
+        {
+          "year": "2018",
+          "amount": 48442,
+          "percentage": 0
+        },
+        {
+          "year": "2019",
+          "amount": 291020,
+          "percentage": 500.8
+        },
+        {
+          "year": "2020",
+          "amount": 530926,
+          "percentage": 82.4
+        },
+        {
+          "year": "2021",
+          "amount": 137573,
+          "percentage": -74.1
+        },
+        {
+          "year": "2022",
+          "amount": 218219,
+          "percentage": 58.6
+        },
+        {
+          "year": "2023",
+          "amount": 1145123,
+          "percentage": 424.8
+        },
+        {
+          "year": "2024",
+          "amount": 1961175,
+          "percentage": 71.3
+        },
+        {
+          "year": "2025",
+          "amount": 1203926,
+          "percentage": -38.6
+        }
+      ],
+      "tax_dynamics_by_period": [
+        {
+          "year": "2022",
+          "part": 3,
+          "amount": 48484
+        },
+        {
+          "year": "2022",
+          "part": 4,
+          "amount": 10333
+        },
+        {
+          "year": "2023",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 2,
+          "amount": 120152
+        },
+        {
+          "year": "2023",
+          "part": 3,
+          "amount": 1028611.25
+        },
+        {
+          "year": "2023",
+          "part": 4,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 1,
+          "amount": 931127.25
+        },
+        {
+          "year": "2024",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 3,
+          "amount": 937360.36
+        },
+        {
+          "year": "2024",
+          "part": 4,
+          "amount": 131413.9
+        },
+        {
+          "year": "2025",
+          "part": 1,
+          "amount": 1217028
+        },
+        {
+          "year": "2025",
+          "part": 2,
+          "amount": 0
+        }
+      ],
+      "has_auto": true,
+      "no_land": false,
+      "has_property": false
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "rating",
+    "data": {
+      "company": {
+        "shift": "high",
+        "bin": "180340021395",
+        "short_name": "ТОО \"КАЗСТРОЙ АСТАНА\"",
+        "critical": {
+          "place": 36776,
+          "amount": "219.00"
+        },
+        "high": {
+          "place": 9137,
+          "amount": "1261262.00"
+        },
+        "actual": {
+          "place": 8769,
+          "amount": "1479849.31"
+        }
+      },
+      "all": [
+        {
+          "place": 1,
+          "amount": "64640725045.82",
+          "bin": "950440000060",
+          "short_name": "ТОО \"НОВУС БОЛАШАҚ\""
+        },
+        {
+          "place": 2,
+          "amount": "55379092990.42",
+          "bin": "001140001023",
+          "short_name": "ТОО \"СЕНИМДИ КУРЫЛЫС\""
+        },
+        {
+          "place": 3,
+          "amount": "10131532308.86",
+          "bin": "970540002768",
+          "short_name": "ТОО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИНТЕРРИН\""
+        },
+        {
+          "place": 4,
+          "amount": "7518204512.83",
+          "bin": "040240016228",
+          "short_name": "ТОО \"SICIM KAZAKHSTAN\" (СИЧИМ КАЗАХСТАН)"
+        },
+        {
+          "place": 5,
+          "amount": "6748783375.77",
+          "bin": "110341018675",
+          "short_name": "ФИЛИАЛ ТОО \"КОРПОРАЦИЯ КАЗАХМЫС\" - ШАХТОПРОХОДЧЕСКИЙ ТРЕСТ ИМЕНИ Г.О. ОМАРОВА"
+        },
+        {
+          "place": 6,
+          "amount": "6545801581.16",
+          "bin": "101141012491",
+          "short_name": "ФИЛИАЛ CITIC CONSTRUCTION CO., LTD В КАЗАХСТАНЕ"
+        },
+        {
+          "place": 7,
+          "amount": "5313810263.93",
+          "bin": "990640000789",
+          "short_name": "ТОО \"ДЕНХОЛМ-ЖОЛДАС\""
+        },
+        {
+          "place": 8,
+          "amount": "5069537601.15",
+          "bin": "010240007203",
+          "short_name": "ТОО \"NFC KAZAKHSTAN\""
+        },
+        {
+          "place": 9,
+          "amount": "4914268233.55",
+          "bin": "130440032553",
+          "short_name": "ТОО \"ACCESS AND COATING GROUP/АКСЕСС ЭНД КОАТИНГ ГРУПП\""
+        },
+        {
+          "place": 10,
+          "amount": "4816468502.25",
+          "bin": "931040000769",
+          "short_name": "АО \"ЭЛЕВАТОРМЕЛЬСТРОЙ\""
+        },
+        {
+          "place": 11,
+          "amount": "4010932897.06",
+          "bin": "140142006209",
+          "short_name": "ПРЕДСТАВИТЕЛЬСТВО ТОО \"ДЕНХОЛМ-ЖОЛДАС\" НА УЧАСТКЕ ТЕНГИЗ"
+        },
+        {
+          "place": 12,
+          "amount": "3742051212.88",
+          "bin": "010540008501",
+          "short_name": "ТОО \"КОМПЛЕКТСТРОЙДЕТАЛЬ\""
+        },
+        {
+          "place": 13,
+          "amount": "3648834431.24",
+          "bin": "090540006825",
+          "short_name": "ТОО \"SCHACHTBAU KASACHSTAN/ШАХТБАУ КАЗАХСТАН\""
+        },
+        {
+          "place": 14,
+          "amount": "3631613445.71",
+          "bin": "980340002524",
+          "short_name": "ТОО \"ДАЛАРО /ОВЕРСИЗ/ ЛИМИТЕД\""
+        },
+        {
+          "place": 15,
+          "amount": "3471381554.74",
+          "bin": "980740002360",
+          "short_name": "ТОО \"КЕН-КУРЫЛЫС-СЕРВИС\""
+        },
+        {
+          "place": 16,
+          "amount": "3299342307.50",
+          "bin": "080240004717",
+          "short_name": "ТОО \"OSTARA GROUP\""
+        },
+        {
+          "place": 17,
+          "amount": "3270920897.06",
+          "bin": "051040007583",
+          "short_name": "ТОО \"SARANDA BUILDING\" (САРАНДА БИЛДИНГ)"
+        },
+        {
+          "place": 18,
+          "amount": "3224194442.08",
+          "bin": "071040010874",
+          "short_name": "ТОО \"ДИМ СТРОЙ\""
+        },
+        {
+          "place": 19,
+          "amount": "3126908494.65",
+          "bin": "130440015157",
+          "short_name": "ТОО \"АССАНА-ДОРСТРОЙ\""
+        },
+        {
+          "place": 20,
+          "amount": "2764132487.28",
+          "bin": "050140006259",
+          "short_name": "ТОО \"А.Р.Т. -ҚҰРЫЛЫС\""
+        },
+        {
+          "place": 21,
+          "amount": "2342342188.49",
+          "bin": "110840019577",
+          "short_name": "ТОО \"ЖЫЛЫ РЕСУРС\""
+        },
+        {
+          "place": 22,
+          "amount": "2318495344.79",
+          "bin": "020240006069",
+          "short_name": "ТОО \"TURANINDUSTRIAL (ТУРАНИНДАСТРИАЛ)\""
+        },
+        {
+          "place": 23,
+          "amount": "2069798826.06",
+          "bin": "050540006095",
+          "short_name": "ТОО \"СП \"NEFT\""
+        },
+        {
+          "place": 24,
+          "amount": "2058048789.80",
+          "bin": "041240004821",
+          "short_name": "ТОО \"ВД СТРОЙ-ИНЖИНИРИНГ\""
+        },
+        {
+          "place": 25,
+          "amount": "2007143905.88",
+          "bin": "070540003699",
+          "short_name": "ТОО \"CHI ELECTRIC\""
+        },
+        {
+          "place": 26,
+          "amount": "2002541085.80",
+          "bin": "090940005673",
+          "short_name": "ТОО \"КЭММ-2030\""
+        },
+        {
+          "place": 27,
+          "amount": "1955049510.75",
+          "bin": "050240007429",
+          "short_name": "ТОО \"GCD PARTNER\""
+        },
+        {
+          "place": 28,
+          "amount": "1880707106.99",
+          "bin": "110340001873",
+          "short_name": "ТОО \"PAINTINGSCAFFOLDINGINSULATION SERVICES\""
+        },
+        {
+          "place": 29,
+          "amount": "1869706328.91",
+          "bin": "040440001029",
+          "short_name": "ТОО \"QSM ENGINEERING\""
+        },
+        {
+          "place": 30,
+          "amount": "1762781711.30",
+          "bin": "031240001022",
+          "short_name": "ТОО \"УМИРЗАК-СЕРВИС\""
+        },
+        {
+          "place": 31,
+          "amount": "1741607153.48",
+          "bin": "061040002603",
+          "short_name": "ТОО \"СЫРЛАСУ\""
+        },
+        {
+          "place": 32,
+          "amount": "1678093810.85",
+          "bin": "030440002184",
+          "short_name": "ТОО \"ЭЛЕКТРОСТРОЙМОНТАЖ\""
+        },
+        {
+          "place": 33,
+          "amount": "1673614864.52",
+          "bin": "050640014228",
+          "short_name": "ТОО \"ПРОЕКТНО-СТРОИТЕЛЬНАЯ ФИРМА \"ПРОФИ\""
+        },
+        {
+          "place": 34,
+          "amount": "1635161017.56",
+          "bin": "181040036890",
+          "short_name": "ТОО \"KAZAKHMYS BARLAU (КАЗАХМЫС БАРЛАУ)\""
+        },
+        {
+          "place": 35,
+          "amount": "1615867109.01",
+          "bin": "070340005757",
+          "short_name": "ТОО \"БАЙСЫН-А\""
+        },
+        {
+          "place": 36,
+          "amount": "1595379511.56",
+          "bin": "070340007367",
+          "short_name": "ТОО \"САПА ҚҰРЫЛЫС 2007\""
+        },
+        {
+          "place": 37,
+          "amount": "1503916420.13",
+          "bin": "990740000118",
+          "short_name": "ТОО \"МНОГОПРОФИЛЬНОЕ ХОЗЯЙСТВЕННОЕ ОБЪЕДИНЕНИЕ \"КАЗИНТЕРЭТНОС\""
+        },
+        {
+          "place": 38,
+          "amount": "1485629342.71",
+          "bin": "140540021533",
+          "short_name": "ТОО \"СТРОЙШАХТОПРОЕКТ\""
+        },
+        {
+          "place": 39,
+          "amount": "1471870194.87",
+          "bin": "060440009800",
+          "short_name": "ТОО \"ОҢДАСЫН СТРОЙ\""
+        },
+        {
+          "place": 40,
+          "amount": "1414248249.00",
+          "bin": "010740001450",
+          "short_name": "ТОО \"ТЕРЕЗЕ\""
+        },
+        {
+          "place": 41,
+          "amount": "1392619817.60",
+          "bin": "050540008349",
+          "short_name": "ТОО \"МУНАЙГАЗКУРЫЛЫС\""
+        },
+        {
+          "place": 42,
+          "amount": "1364857738.18",
+          "bin": "931040000184",
+          "short_name": "АО \"ТРЕСТ СРЕДАЗЭНЕРГОМОНТАЖ\""
+        },
+        {
+          "place": 43,
+          "amount": "1339736681.90",
+          "bin": "021040004147",
+          "short_name": "ТОО \"БАТЫСАЛЬЯНССТРОЙ\""
+        },
+        {
+          "place": 44,
+          "amount": "1331209645.83",
+          "bin": "040740001327",
+          "short_name": "ТОО \"АЛМАТЫ PRODUCTION CONSTRUCTION & INVEST\""
+        },
+        {
+          "place": 45,
+          "amount": "1278353276.27",
+          "bin": "050440009640",
+          "short_name": "ТОО \"АЗИЯЭНЕРГОПРОЕКТМОНТАЖ\""
+        },
+        {
+          "place": 46,
+          "amount": "1251145381.20",
+          "bin": "201140014413",
+          "short_name": "ТОО \"TORO STROY (ТОРО СТРОЙ)\""
+        },
+        {
+          "place": 47,
+          "amount": "1246999739.47",
+          "bin": "941040000473",
+          "short_name": "ТОО \"ИНЖТЕХСЕРВИС\""
+        },
+        {
+          "place": 48,
+          "amount": "1224390224.87",
+          "bin": "021240013460",
+          "short_name": "ТОО \"HI-TECK QAZAQSTAN\""
+        },
+        {
+          "place": 49,
+          "amount": "1172180047.41",
+          "bin": "190140005157",
+          "short_name": "ТОО \"АЛЕМЖОЛДАС\""
+        },
+        {
+          "place": 50,
+          "amount": "1158845641.20",
+          "bin": "120240009807",
+          "short_name": "ТОО \"KAZCARGO EXPRESS\""
+        },
+        {
+          "place": 51,
+          "amount": "1149416577.99",
+          "bin": "061140000135",
+          "short_name": "ТОО \"KINGKA MINING CONSTRUCTION\" (КИНГКА МАЙНИНГ КАНСТРАКШН)"
+        },
+        {
+          "place": 52,
+          "amount": "1131950048.42",
+          "bin": "130640000166",
+          "short_name": "ГКП на ПХВ АКИМАТА Г. АЛМАТЫ «АЛМАТЫ ҚАЛА ЖАРЫҚ»"
+        },
+        {
+          "place": 53,
+          "amount": "1120419687.67",
+          "bin": "011240001683",
+          "short_name": "ТОО \"НЕФТЕХИМПРИБОР\""
+        },
+        {
+          "place": 54,
+          "amount": "1099163444.20",
+          "bin": "061240002294",
+          "short_name": "ТОО \"ЗЕМДОРСТРОЙ\" ТЕМИРТАУ"
+        },
+        {
+          "place": 55,
+          "amount": "1067907734.27",
+          "bin": "100440006886",
+          "short_name": "ТОО \"ГҮЛДЕНУСТРОЙ\""
+        },
+        {
+          "place": 56,
+          "amount": "1063976788.96",
+          "bin": "220241034775",
+          "short_name": "ФИЛИАЛ CHINA NATIONAL CHEMICAL ENGINEERING CO., LTD. (ЧАЙНА НЭЙШЕНЛ КЕМИКАЛ ИНЖИНИРИНГ КО., ЛТД.) В Г. АСТАНА"
+        },
+        {
+          "place": 57,
+          "amount": "1034052410.32",
+          "bin": "080840010555",
+          "short_name": "ТОО \"АВРОРА СЕРВИС\""
+        },
+        {
+          "place": 58,
+          "amount": "1027734559.71",
+          "bin": "980340010901",
+          "short_name": "ТОО \"КВАНТ ГРУП\""
+        },
+        {
+          "place": 59,
+          "amount": "1025045644.24",
+          "bin": "051040008214",
+          "short_name": "ТОО \"ИРТЫШЭЛЕКТРОМОНТАЖ\""
+        },
+        {
+          "place": 60,
+          "amount": "1020978654.26",
+          "bin": "110340012869",
+          "short_name": "ТОО \"NEWTECH SYSTEMS GROUP\""
+        },
+        {
+          "place": 61,
+          "amount": "1004212234.40",
+          "bin": "110540015187",
+          "short_name": "ТОО \"МОБИЛЬНАЯ КОМПАНИЯ ЭНЕРГО СЕРВИС\""
+        },
+        {
+          "place": 62,
+          "amount": "990395715.77",
+          "bin": "150641008755",
+          "short_name": "ФИЛИАЛ АО \"БАШКИРСКОЕ ШАХТОПРОХОДЧЕСКОЕ УПРАВЛЕНИЕ\" В РК"
+        },
+        {
+          "place": 63,
+          "amount": "899713912.87",
+          "bin": "220341019150",
+          "short_name": "ФИЛИАЛ \"INTETRA TEKNOLOJI VE BILISIM HIZMETLERI ANONIM SIRKETI\" В Г. АЛМАТЫ"
+        },
+        {
+          "place": 64,
+          "amount": "875775416.18",
+          "bin": "031240001974",
+          "short_name": "ТОО \"КАЗСТРОЙ-АБК\""
+        },
+        {
+          "place": 65,
+          "amount": "865238341.36",
+          "bin": "950640003825",
+          "short_name": "ТОО \"KAZCONSTRUCTION-NS\""
+        },
+        {
+          "place": 66,
+          "amount": "854739631.51",
+          "bin": "950540000292",
+          "short_name": "АО \"ИМСТАЛЬКОН\""
+        },
+        {
+          "place": 67,
+          "amount": "839259005.46",
+          "bin": "210641015107",
+          "short_name": "ШУСКИЙ ФИЛИАЛ ТОО \"AAENGINEERING GROUP\""
+        },
+        {
+          "place": 68,
+          "amount": "832667098.15",
+          "bin": "130740009946",
+          "short_name": "ТОО \"КАЗАХСТАНСКАЯ ГОРНАЯ КОМПАНИЯ\""
+        },
+        {
+          "place": 69,
+          "amount": "827411806.33",
+          "bin": "110640007902",
+          "short_name": "ТОО \"STROY ИНДУСТРИЯ\""
+        },
+        {
+          "place": 70,
+          "amount": "826896164.82",
+          "bin": "030440007501",
+          "short_name": "ТОО \"АЙКОМ LTD.\""
+        },
+        {
+          "place": 71,
+          "amount": "811201975.80",
+          "bin": "111240001298",
+          "short_name": "ТОО \"BEST TEAM CONSTRUCTION\""
+        },
+        {
+          "place": 72,
+          "amount": "804387120.00",
+          "bin": "000241004857",
+          "short_name": "АКСАЙСКИЙ ФИЛИАЛ ООО \"ФЛАГМАН\""
+        },
+        {
+          "place": 73,
+          "amount": "796567576.60",
+          "bin": "120440000672",
+          "short_name": "ТОО \"ТЕХНОСЕРВИС-ИНЖИНИРИНГ\""
+        },
+        {
+          "place": 74,
+          "amount": "788027649.18",
+          "bin": "061140004465",
+          "short_name": "ТОО \"RAMS INTERNATIONAL\" (РАМС ИНТЕРНЕШЕНАЛ)"
+        },
+        {
+          "place": 75,
+          "amount": "783023242.60",
+          "bin": "130840012632",
+          "short_name": "ТОО \"ВОСТОК СТРОЙ КАПИТАЛ\""
+        },
+        {
+          "place": 76,
+          "amount": "777291885.05",
+          "bin": "000140001338",
+          "short_name": "ТОО \"БИ.И.АЙ. ЭЛЕКТРО\" (B.E.I. ELECTRO)"
+        },
+        {
+          "place": 77,
+          "amount": "768306531.15",
+          "bin": "091140010722",
+          "short_name": "ТОО \"КАЗИНТЕГСТРОЙ\""
+        },
+        {
+          "place": 78,
+          "amount": "736551702.83",
+          "bin": "091040007174",
+          "short_name": "ТОО \"АЛАМАК СТРОЙ\""
+        },
+        {
+          "place": 79,
+          "amount": "734118996.14",
+          "bin": "981140000395",
+          "short_name": "ТОО \"ПРОМЭНЕРГОИЗОЛЯЦИЯ\""
+        },
+        {
+          "place": 80,
+          "amount": "727230436.20",
+          "bin": "091240005958",
+          "short_name": "ТОО \"КОМПАНИЯ \"АРАЙ-НС\""
+        },
+        {
+          "place": 81,
+          "amount": "691357077.00",
+          "bin": "071140000711",
+          "short_name": "ТОО \"ШАХТОСТРОЙ ИНЖЕНЕРИНГ\""
+        },
+        {
+          "place": 82,
+          "amount": "667754754.24",
+          "bin": "040340001818",
+          "short_name": "ТОО \"КА-СТРОЙ ЛТД\""
+        },
+        {
+          "place": 83,
+          "amount": "665199994.49",
+          "bin": "161040010952",
+          "short_name": "ТОО \"НОВУС ТЕХНИКАЛ СЕРВИСЕЗ КАЗАХСТАН\""
+        },
+        {
+          "place": 84,
+          "amount": "660055769.74",
+          "bin": "040440003749",
+          "short_name": "ТОО \"UNIVERSAL - BUILD\""
+        },
+        {
+          "place": 85,
+          "amount": "634169472.14",
+          "bin": "050440001556",
+          "short_name": "ТОО \"ТЕХНОВИД ПЛЮС\""
+        },
+        {
+          "place": 86,
+          "amount": "626249318.46",
+          "bin": "151240014168",
+          "short_name": "ТОО \"ГОРНО ЭНЕРГО СЕРВИС\""
+        },
+        {
+          "place": 87,
+          "amount": "621805527.15",
+          "bin": "961040000133",
+          "short_name": "ТОО \"РЕМЭКОЛОГИЯ\""
+        },
+        {
+          "place": 88,
+          "amount": "621613168.71",
+          "bin": "031241004220",
+          "short_name": "ФИЛИАЛ \"ИНЖЕНЕРНО-ТЕХНИЧЕСКИЙ ЦЕНТР\" АО \"ИНТЕРГАЗ ЦЕНТРАЛЬНАЯ АЗИЯ\""
+        },
+        {
+          "place": 89,
+          "amount": "618798236.18",
+          "bin": "041240012971",
+          "short_name": "ТОО \"ШАМОТА\""
+        },
+        {
+          "place": 90,
+          "amount": "616659748.67",
+          "bin": "030140017390",
+          "short_name": "ТОО \"АГИДЕЛЬ-АС\""
+        },
+        {
+          "place": 91,
+          "amount": "605079720.00",
+          "bin": "031240001588",
+          "short_name": "ТОО \"ТЕМИР-СТРОЙ СЕРВИС И КО\""
+        },
+        {
+          "place": 92,
+          "amount": "603283077.56",
+          "bin": "230240036341",
+          "short_name": "ТОО \"KEMEL HUB SOUTH\""
+        },
+        {
+          "place": 93,
+          "amount": "596589274.20",
+          "bin": "980640000866",
+          "short_name": "ТОО \"ЭЛЕКТРОСЕРВИС\""
+        },
+        {
+          "place": 94,
+          "amount": "583225130.25",
+          "bin": "091140016791",
+          "short_name": "ТОО \"TENGIZSPECSTROY\""
+        },
+        {
+          "place": 95,
+          "amount": "581162168.92",
+          "bin": "110240014029",
+          "short_name": "ТОО \"СТРОИТЕЛЬНАЯ КОМПАНИЯ ДОСТЫК ВЕСТ\""
+        },
+        {
+          "place": 96,
+          "amount": "579700133.20",
+          "bin": "051140009951",
+          "short_name": "ТОО \"МИРАС GROUP\""
+        },
+        {
+          "place": 97,
+          "amount": "576309755.83",
+          "bin": "130540011128",
+          "short_name": "ТОО \"НУР-ПРОЕКТ МОНТАЖ\""
+        },
+        {
+          "place": 98,
+          "amount": "567296237.71",
+          "bin": "050640004657",
+          "short_name": "ТОО \"ТЕМИРТАУСКИЙ КАЗМЕХАНОМОНТАЖ №2\""
+        },
+        {
+          "place": 99,
+          "amount": "564868279.98",
+          "bin": "020640001657",
+          "short_name": "ТОО \"KGS-ASTANA\""
+        },
+        {
+          "place": 100,
+          "amount": "561799517.54",
+          "bin": "141040025134",
+          "short_name": "ТОО \"KAZDRILLING COMPANY\""
+        },
+        {
+          "place": 368,
+          "amount": "165475856.22",
+          "bin": "161240016265",
+          "short_name": "ТОО \"APC TRADE\""
+        },
+        {
+          "place": 735,
+          "amount": "84350463.45",
+          "bin": "070840006466",
+          "short_name": "ТОО \"ARMADA-S.V.\""
+        },
+        {
+          "place": 1102,
+          "amount": "54879332.00",
+          "bin": "060340021836",
+          "short_name": "ТОО \"КАСПИЙ ТРАНС ҚҰРЫЛЫС\""
+        },
+        {
+          "place": 1469,
+          "amount": "39790717.00",
+          "bin": "140140009552",
+          "short_name": "ТОО \"УРАЛ ВЕНТ\""
+        },
+        {
+          "place": 1836,
+          "amount": "30241873.00",
+          "bin": "030840008376",
+          "short_name": "ТОО \"ЭЛИТ-Ж.Д.\""
+        },
+        {
+          "place": 2203,
+          "amount": "23747544.54",
+          "bin": "130440032345",
+          "short_name": "ТОО \"ZHAAN STROI\""
+        },
+        {
+          "place": 2570,
+          "amount": "19168414.00",
+          "bin": "220340024825",
+          "short_name": "ТОО \"POTOLOKPRO.KZ\""
+        },
+        {
+          "place": 2937,
+          "amount": "15867907.00",
+          "bin": "160340021153",
+          "short_name": "ТОО \"ПРОФАНГАР\""
+        },
+        {
+          "place": 3304,
+          "amount": "13126870.00",
+          "bin": "210540016423",
+          "short_name": "ТОО \"JSM 2020 KZ\""
+        },
+        {
+          "place": 3671,
+          "amount": "11035737.97",
+          "bin": "150940014329",
+          "short_name": "ТОО \"ПРОФКЛИМАТ-СЕРВИС\""
+        },
+        {
+          "place": 4038,
+          "amount": "9227055.80",
+          "bin": "200540014742",
+          "short_name": "ТОО \"RJB CONSTRUCTION\""
+        },
+        {
+          "place": 4405,
+          "amount": "7629776.29",
+          "bin": "121240016218",
+          "short_name": "ТОО \"ЭНЕРГОТРАНССЕРВИС-СТРОЙ\""
+        },
+        {
+          "place": 4772,
+          "amount": "6240146.00",
+          "bin": "080740017717",
+          "short_name": "ТОО \"АЛЬТАИР-ЖАРЫҚ\""
+        },
+        {
+          "place": 5139,
+          "amount": "5082427.00",
+          "bin": "100240018535",
+          "short_name": "ТОО \"ВЕГА СТРОЙ\""
+        },
+        {
+          "place": 5506,
+          "amount": "4368362.00",
+          "bin": "030140000985",
+          "short_name": "ТОО \"НАЛАДКА ЭНЕРГО-МОНТАЖ\""
+        },
+        {
+          "place": 5873,
+          "amount": "3780070.68",
+          "bin": "161040028320",
+          "short_name": "ТОО \" СТРОЙ LUX\""
+        },
+        {
+          "place": 6240,
+          "amount": "3276656.82",
+          "bin": "181040027633",
+          "short_name": "ТОО \"КАЗМОНОЛИТСНАБ\""
+        },
+        {
+          "place": 6607,
+          "amount": "2897299.00",
+          "bin": "211140027378",
+          "short_name": "ТОО \"ЛИЧСТРОЙ\""
+        },
+        {
+          "place": 6974,
+          "amount": "2616391.00",
+          "bin": "200740004118",
+          "short_name": "ТОО \"TEPLOVSEM SK\""
+        },
+        {
+          "place": 7341,
+          "amount": "2353536.00",
+          "bin": "171040005521",
+          "short_name": "ТОО \"BSB CONSTRUCTION GROUP\""
+        },
+        {
+          "place": 7708,
+          "amount": "2131088.00",
+          "bin": "220940032560",
+          "short_name": "ТОО \"JS INTENSITY\""
+        },
+        {
+          "place": 8075,
+          "amount": "1890198.00",
+          "bin": "061140016815",
+          "short_name": "ТОО \"ASTANA AQUA SYSTEMS\""
+        },
+        {
+          "place": 8442,
+          "amount": "1661718.00",
+          "bin": "240240017387",
+          "short_name": "ТОО \"BAL TEMIR\""
+        },
+        {
+          "place": 8764,
+          "amount": "1482155.00",
+          "bin": "240540035277",
+          "short_name": "ТОО \"CALORTECH\""
+        },
+        {
+          "place": 8765,
+          "amount": "1482000.00",
+          "bin": "090440008590",
+          "short_name": "ТОО \"ГЕНСТРОЙКОМ 2050\""
+        },
+        {
+          "place": 8766,
+          "amount": "1480614.00",
+          "bin": "210440012239",
+          "short_name": "ТОО \"ZS STROI\""
+        },
+        {
+          "place": 8767,
+          "amount": "1480578.00",
+          "bin": "210440042627",
+          "short_name": "ТОО \"SAGYZ ENGINEERING\""
+        },
+        {
+          "place": 8768,
+          "amount": "1480111.00",
+          "bin": "171240015497",
+          "short_name": "ТОО \"ЖӨКЕ\""
+        },
+        {
+          "place": 8770,
+          "amount": "1478490.00",
+          "bin": "200340002464",
+          "short_name": "ТОО \"KAZSTROY PARTNERS\""
+        },
+        {
+          "place": 8771,
+          "amount": "1478180.00",
+          "bin": "230340037680",
+          "short_name": "ТОО \"SABANSHIN COMPANY\""
+        },
+        {
+          "place": 8772,
+          "amount": "1476028.00",
+          "bin": "140340013624",
+          "short_name": "ТОО \"ТЕМІР-ҚҰРЫЛЫС2014\""
+        },
+        {
+          "place": 8773,
+          "amount": "1475248.92",
+          "bin": "110940018156",
+          "short_name": "ТОО \"ТОМСТРОЙ\""
+        },
+        {
+          "place": 8774,
+          "amount": "1474875.00",
+          "bin": "211140017482",
+          "short_name": "ТОО \"RED CORDON\""
+        },
+        {
+          "place": 8809,
+          "amount": "1453154.00",
+          "bin": "050540002598",
+          "short_name": "ТОО \"ОКТАНТ-Т\""
+        },
+        {
+          "place": 9137,
+          "amount": "1261262.00",
+          "bin": "180340021395",
+          "short_name": "ТОО \"КАЗСТРОЙ АСТАНА\""
+        },
+        {
+          "place": 9176,
+          "amount": "1238968.00",
+          "bin": "140840007846",
+          "short_name": "ТОО \"SHYM NOVA\""
+        },
+        {
+          "place": 9543,
+          "amount": "1057753.00",
+          "bin": "161140020273",
+          "short_name": "ТОО \"JISON SERVICE\""
+        },
+        {
+          "place": 9910,
+          "amount": "902599.00",
+          "bin": "210140034784",
+          "short_name": "ТОО \"OAB STROY\""
+        },
+        {
+          "place": 10277,
+          "amount": "759714.00",
+          "bin": "180240028458",
+          "short_name": "ТОО \"ТАИСKZ\""
+        },
+        {
+          "place": 10644,
+          "amount": "634244.00",
+          "bin": "211040038062",
+          "short_name": "ТОО \"NNR GROUP\""
+        },
+        {
+          "place": 11011,
+          "amount": "520384.00",
+          "bin": "130540020513",
+          "short_name": "ТОО \"МАСТЕР МАРКЕТ КАЗАХСТАН\""
+        },
+        {
+          "place": 11378,
+          "amount": "417462.00",
+          "bin": "120740008084",
+          "short_name": "ТОО \"КОНСАЛТИНГ ГРУПП \"ПАРТНЕР\""
+        },
+        {
+          "place": 11745,
+          "amount": "331820.00",
+          "bin": "060640011126",
+          "short_name": "ТОО \"КАЗЕВРОСТРОЙ KZ\""
+        },
+        {
+          "place": 12112,
+          "amount": "254259.00",
+          "bin": "241040002077",
+          "short_name": "ТОО \"СТРОЙ ИНВЕСТ GROUP 2024\""
+        },
+        {
+          "place": 12479,
+          "amount": "194364.33",
+          "bin": "220340000025",
+          "short_name": "ТОО \"АТАМЕКЕН АКТАУ ПЛАСТ\""
+        },
+        {
+          "place": 12846,
+          "amount": "124870.00",
+          "bin": "230740005558",
+          "short_name": "ТОО \"10 ИЗ 10\""
+        },
+        {
+          "place": 13213,
+          "amount": "78498.00",
+          "bin": "220340033498",
+          "short_name": "ТОО \"KAIZENSTROIGROUP\""
+        },
+        {
+          "place": 13580,
+          "amount": "40612.00",
+          "bin": "200640025177",
+          "short_name": "ТОО \"STROY - AS\""
+        },
+        {
+          "place": 13947,
+          "amount": "20319.00",
+          "bin": "070240003370",
+          "short_name": "ТОО \"ПРОЕКТНО СТРОИТЕЛЬНАЯ ОРГАНИЗАЦИЯ \"БИЛДИНГ ЭКСПЕРТ\""
+        },
+        {
+          "place": 14314,
+          "amount": "3812.00",
+          "bin": "970840002322",
+          "short_name": "АО \"КАЗЭЛЕКТРОМОНТАЖ-С\""
+        },
+        {
+          "place": 14681,
+          "amount": "219.00",
+          "bin": "090440017916",
+          "short_name": "ТОО \"ДАУЛЕТ.KZ\""
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "market-dynamics",
+    "data": {
+      "company": [
+        {
+          "year": "2010",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2011",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2012",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2013",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2014",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2015",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2016",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2017",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2018",
+          "amount": 48442,
+          "place": 9539
+        },
+        {
+          "year": "2019",
+          "amount": 291020,
+          "place": 8100
+        },
+        {
+          "year": "2020",
+          "amount": 530926,
+          "place": 7414
+        },
+        {
+          "year": "2021",
+          "amount": 137573,
+          "place": 10234
+        },
+        {
+          "year": "2022",
+          "amount": 218219,
+          "place": 10176
+        },
+        {
+          "year": "2023",
+          "amount": 1145123.15,
+          "place": 7939
+        },
+        {
+          "year": "2024",
+          "amount": 1961175.15,
+          "place": 7944
+        },
+        {
+          "year": "2025",
+          "amount": 1203926.41,
+          "place": 5041
+        }
+      ],
+      "market": [
+        {
+          "year": "2010",
+          "amount": 54759,
+          "quantity": 1
+        },
+        {
+          "year": "2011",
+          "amount": 43610,
+          "quantity": 2
+        },
+        {
+          "year": "2012",
+          "amount": 38832,
+          "quantity": 3
+        },
+        {
+          "year": "2013",
+          "amount": 12862,
+          "quantity": 4
+        },
+        {
+          "year": "2014",
+          "amount": 1042310,
+          "quantity": 11
+        },
+        {
+          "year": "2015",
+          "amount": 125351516209.1,
+          "quantity": 9905
+        },
+        {
+          "year": "2016",
+          "amount": 160215661496.05,
+          "quantity": 10158
+        },
+        {
+          "year": "2017",
+          "amount": 158548490569.14,
+          "quantity": 10818
+        },
+        {
+          "year": "2018",
+          "amount": 154540362475.66,
+          "quantity": 11561
+        },
+        {
+          "year": "2019",
+          "amount": 186466268728.7,
+          "quantity": 12257
+        },
+        {
+          "year": "2020",
+          "amount": 194926709803.02,
+          "quantity": 13030
+        },
+        {
+          "year": "2021",
+          "amount": 246390164101.56,
+          "quantity": 14111
+        },
+        {
+          "year": "2022",
+          "amount": 419260493834.42,
+          "quantity": 14712
+        },
+        {
+          "year": "2023",
+          "amount": 527334092827.81,
+          "quantity": 15387
+        },
+        {
+          "year": "2024",
+          "amount": 538294219479.2,
+          "quantity": 15211
+        },
+        {
+          "year": "2025",
+          "amount": 127800936313.36,
+          "quantity": 11097
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "180340021395",
+    "endpoint": "contract_status",
+    "data": {
+      "total_count": 1,
+      "total_sum": 2000,
+      "years": [
+        {
+          "year": 2020,
+          "count": 1,
+          "sum": 2000,
+          "statuses": [
+            {
+              "name": "Исполнен",
+              "count": 1,
+              "sum": 2000
+            }
+          ]
+        }
+      ]
+    },
+    "status": "ready"
+  }
+]

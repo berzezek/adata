@@ -11,7 +11,7 @@ pip install -r requirements.txt
 # Создание файла .env
 ```bash
 # Создайте файл .env в корне проекта и добавьте туда ваши переменные окружения
-TOKENS=oQSG49tlkZgFpxsdJVjCPTYuq09xFuPye
+TOKENS=SOME_TOKEN
 URL=https://api.adata.kz/
 
 MAX_RETRIES=1
@@ -53,3 +53,70 @@ test_2_async.py считывает токены из response_tokens.json и з�
 ```text
 В env есть прокси, на рабочих компьютерах нужна авторизация.
 ```
+
+## Доступные данные в сервиcе ADATA для прескрининга по мерчантам
+
+1. Степень риска налогоплательщика - отказ при параметре "высокая" 
+  * "endpoint": "info",
+  * "data" -> "riskFactor" -> "company" -> "tax_risk_degree" (string)
+  * Условние: "tax_risk_degree" != "высокая"
+
+2. Участие в судебных делах - отказ при параметре "Уголовные" более 0
+  * "data" -> "riskFactor" -> "head" -> "litigation" -> "total_criminal_count" (int)
+  * Условние: "total_criminal_count" == 0
+
+3. Оценочная прибыль компании - выход на возможную ЧП в динамике
+  * "endpoint": "profit"
+  * "data" -> [{"year": string | null, "ammount": int}]
+  * Сводную таблицу
+
+4. Налоговые отчисления - выход на возможный доход
+  * "endpoint": "tax"
+  * "data" -> "details" [{"year": string | null, "ammount": int}]
+  * Сводную таблицу
+
+  * "endpoint": "estimated-wage-fund"
+  * "data" -> "bar" -> [{"year": string | null, "part": int, "ammount": int}]
+  * "data" -> "line" -> [{"year": string | null, "ammount": int}]
+  * Сводную таблицу
+
+5. Налоговые отчисления - выход на возможный доход (Налоговые отчисления по КБК)
+  * "endpoint": "tax-deduction_kbk"
+  * "data" -> "bar" -> [{"year": string | null, "part": int, "ammount": int}]
+  * "data" -> "line" -> [{"year": string | null, "ammount": int}]
+  * Сводную таблицу
+
+6. Налоговые отчисления – КБК по КПН, возможен выход на прибыль
+  * "endpoint": "tax-deduction_extended"
+  * "data" -> "details" -> [{"bcc_name": string, "bcc": int, "ammount": int, "org_name": string, "write_off_date": string, "receipt_date": string, "entry_name": string, "pay_name": string, entry_code: string, "pay_code": string}]
+  * Сводную таблицу
+
+7. Задолженности – отказ по первым 3 позициям
+  * "endpoint": "info"
+  * "data" -> "status" -> "tax_debt" (int)
+  * "data" -> "riskFactor" -> company -> "ban_leaving" (bool)
+  * "data" -> "riskFactor" -> company -> "enforcement_debt" (bool)
+
+8. Участие в закупках – выход на возможный доход
+  * "endpoint": "contract_status"
+  * "data" -> "total_count" (int)
+  * "data" -> "total_sum" (int)
+  * "years" -> [{"year": string | null, "ammount": int}]
+
+9. Рейтинг компании – как вариант лучше, чем у 50% компаний
+  * "endpoint": "rating"
+    * "data" -> "company" -> "actual" -> "place" (int)
+    * "data" -> "company" -> "critical" -> "amount" (int)
+    * "data" -> "company" -> "high" -> "place" (int)
+
+10. Наличие активов – как вариант «нет имущества» - отказ
+  * "endpoint": "tax-deduction_dynamics"
+  * "data" -> "has_auto" (bool)
+  * "data" -> "no_land" (bool)
+  * "data" -> "has_property" (bool)
+
+11. Динамика рынка – возможные поправки к уровню дохода
+  * "endpoint": "market-dynamics"
+  * "data" -> "company" -> [{"year": string | null, "ammount": int, place: int}]
+  * "data" -> "market" -> [{"year": string | null, "ammount": int, place: int}]
+  * Сводную таблицу
