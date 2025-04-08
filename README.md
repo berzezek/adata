@@ -19,9 +19,14 @@ RETRY_INTERVAL=1
 CHECK_URL=api/company/info/check/
 ```
 
-# Запуск
+# Запуск парсера
 ```bash
-python app.py
+python main.py
+```
+
+# Запуск создания отчетов
+```bash
+python report.py  
 ```
 
 ```text
@@ -120,3 +125,4 @@ test_2_async.py считывает токены из response_tokens.json и з�
   * "data" -> "company" -> [{"year": string | null, "ammount": int, place: int}]
   * "data" -> "market" -> [{"year": string | null, "ammount": int, place: int}]
   * Сводную таблицу
+
