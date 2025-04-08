@@ -45,12 +45,24 @@ def create_excel_report():
 
     # Пункт 1
     df_main["01 - Степень риска налогоплательщика"] = [
-        company_dict["info"]["riskFactor"]["company"]["tax_risk_degree"]
+        (
+            "отказ"
+            if company_dict["info"]["riskFactor"]["company"]["tax_risk_degree"]
+            == "высокая"
+            else "ок"
+        )
     ]
 
     # Пункт 2
     df_main["02 - Участие в судебных делах"] = [
-        company_dict["info"]["riskFactor"]["head"]["litigation"]["total_criminal_count"]
+        (
+            "отказ"
+            if company_dict["info"]["riskFactor"]["head"]["litigation"][
+                "total_criminal_count"
+            ]
+            > 0
+            else "ок"
+        )
     ]
 
     # Пункт 3
@@ -61,6 +73,11 @@ def create_excel_report():
     )
     df_profit_pivot.insert(0, "bin", biin)
     df_profit_pivot = df_profit_pivot.fillna(0).astype(int)
+
+    # по всем слайдам , если доход 0, то отказ
+    df_main["03 - Оценочная прибыль компании"] = [
+        "отказ" if df_profit_pivot.iloc[0, 1:].sum() == 0 else "ок"
+    ]
 
     # Пункт 4
     tax_data = company_dict.get("tax", {}).get("details", [])
@@ -106,7 +123,9 @@ def create_excel_report():
             kpn_entries.append(row)
 
     # В сводку
-    df_main["06 - Налоговые отчисления КБК по КПН"] = ["да" if kpn_entries else "нет"]
+    df_main["06 - Налоговые отчисления КБК по КПН"] = [
+        "отказ" if not kpn_entries else "ок"
+    ]
 
     # Лист со всеми строками по КПН
     if kpn_entries:

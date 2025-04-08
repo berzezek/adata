@@ -2926,5 +2926,1609 @@
       ]
     },
     "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "info",
+    "data": {
+      "basic": {
+        "name_kgd": "AZM GROUP",
+        "name_ru": "ИП NURAZH",
+        "name_kz": null,
+        "short_name": "ИП NURAZH",
+        "biin": "000103500974",
+        "legal_address": "Г.АЛМАТЫ, АУЭЗОВСКИЙ РАЙОН",
+        "legal_address_kz": null,
+        "oked_id": "47910",
+        "oked": "Розничная торговля путем заказа товаров по почте или через сеть интернет",
+        "id_kato": 751310000,
+        "kato_name": "АУЭЗОВСКИЙ РАЙОН",
+        "id_krp": 105,
+        "fullname_director": "ШАНШАРХАН ӘЗІМХАН ӘЖМҰХАНҰЛЫ",
+        "director_iin": null,
+        "director_iin_formatted": null,
+        "director_start_date": null,
+        "date_registration": "2023-10-25",
+        "end_date": null,
+        "krp": "Малые предприятия (<= 5)",
+        "company_problems": false,
+        "financial_problems": false,
+        "unreliable_zakup": false,
+        "head_problems": false,
+        "counterparty_type": "enterprise",
+        "is_nds_payer": false,
+        "okeds": [
+          {
+            "i": "47910",
+            "name_ru": "Розничная торговля путем заказа товаров по почте или через сеть интернет"
+          }
+        ],
+        "secondary_okeds": [],
+        "source_link": "https://pk.adata.kz/company/000103500974",
+        "type_of_ownership": "Частная собственность",
+        "legal_form": null
+      },
+      "status": {
+        "company_status": true,
+        "pseudo_company": false,
+        "bankcrupt": false,
+        "inactive": false,
+        "absent_at_address": false,
+        "registration_invalid": false,
+        "violation_tax": false,
+        "tax_debt": 0
+      },
+      "riskFactor": {
+        "company": {
+          "bankrupt": false,
+          "tax_risk_degree": "средняя",
+          "irresponsible_taxpayer": false,
+          "liquidating_taxpayer": false,
+          "ban_leaving": false,
+          "ban_leaving_sum": 0,
+          "enforcement_debt": false,
+          "enforcement_debt_sum": 0,
+          "seized_property": false,
+          "seized_bank_account": false,
+          "ban_registration_actions_legal_ent": false,
+          "ban_registration_actions_physical_ent": false,
+          "ban_notarius_actions": false,
+          "ban_seized_property_actions": false,
+          "encumbrance": null
+        },
+        "head": {
+          "terrorist": false,
+          "terrorism_involved": false,
+          "pedophile": false,
+          "alimony_payer": false,
+          "missing": false,
+          "debtor_for_executive_documents": false,
+          "citizen_hiding_from_investigation": false,
+          "ban_leaving": false,
+          "ban_leaving_sum": 0,
+          "enforcement_debt": false,
+          "enforcement_debt_sum": 0,
+          "seized_property": false,
+          "seized_bank_account": false,
+          "ban_registration_actions_legal_ent": false,
+          "ban_registration_actions_physical_ent": false,
+          "ban_notarius_actions": false,
+          "ban_seized_property_actions": false,
+          "tax_debt": 0,
+          "litigation": {
+            "total_civil_count": 0,
+            "total_criminal_count": 0,
+            "total_administrative_count": 1,
+            "court_cases": [
+              {
+                "year": "2023",
+                "civil_count": 0,
+                "criminal_count": 0,
+                "administrative_count": 1,
+                "appk_count": 0
+              }
+            ],
+            "total_appk_count": 0
+          }
+        }
+      },
+      "taxDeductions": {
+        "sum": 0,
+        "details": [
+          {
+            "amount": 0,
+            "year": null
+          }
+        ]
+      },
+      "litigation": {
+        "total_civil_count": 0,
+        "total_criminal_count": 0,
+        "total_administrative_count": 1,
+        "total_appk_count": 0,
+        "court_cases": [
+          {
+            "year": "2023",
+            "civil_count": 0,
+            "criminal_count": 0,
+            "administrative_count": 1,
+            "appk_count": 0
+          }
+        ]
+      },
+      "founders": {
+        "founders_cnt": 0,
+        "founders_dtl": []
+      },
+      "connectedDiagram": {
+        "affiliation_by_company": [],
+        "affiliation_by_head": {
+          "head_name": "ШАНШАРХАН ӘЗІМХАН ӘЖМҰХАНҰЛЫ",
+          "companies": [
+            {
+              "bin": "000103500974",
+              "type": "Руководитель",
+              "name": "ИП NURAZH",
+              "bin_formatted": "000103500974",
+              "director": "ШАНШАРХАН ӘЗІМХАН ӘЖМҰХАНҰЛЫ"
+            }
+          ]
+        },
+        "affiliation_by_founder": []
+      },
+      "licenseGeneral": {
+        "total_licenses_count": 0,
+        "total_other_docs_count": 3,
+        "details": [
+          {
+            "year": "2024",
+            "licenses_count": 0,
+            "other_docs_count": 2
+          },
+          {
+            "year": "2023",
+            "licenses_count": 0,
+            "other_docs_count": 1
+          }
+        ]
+      },
+      "contract": {
+        "total_count": 0,
+        "total_sum": 0,
+        "details": [
+          {
+            "year": "2025",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2024",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2023",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2022",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "2021",
+            "count": 0,
+            "sum": 0
+          },
+          {
+            "year": "Пред. период",
+            "count": 0,
+            "sum": 0
+          }
+        ]
+      }
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "profit",
+    "data": [
+      {
+        "year": "2012",
+        "amount": 0
+      },
+      {
+        "year": "2013",
+        "amount": 0
+      },
+      {
+        "year": "2014",
+        "amount": 0
+      },
+      {
+        "year": "2015",
+        "amount": 0
+      },
+      {
+        "year": "2016",
+        "amount": 0
+      },
+      {
+        "year": "2017",
+        "amount": 0
+      },
+      {
+        "year": "2018",
+        "amount": 0
+      },
+      {
+        "year": "2019",
+        "amount": 0
+      },
+      {
+        "year": "2020",
+        "amount": 0
+      },
+      {
+        "year": "2021",
+        "amount": 0
+      },
+      {
+        "year": "2022",
+        "amount": 0
+      },
+      {
+        "year": "2023",
+        "amount": 0
+      },
+      {
+        "year": "2024",
+        "amount": 0
+      },
+      {
+        "year": "2025",
+        "amount": 0
+      }
+    ],
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "tax",
+    "data": {
+      "sum": 0,
+      "details": [
+        {
+          "amount": 0,
+          "year": null
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "estimated-wage-fund",
+    "data": {
+      "bar": [
+        {
+          "year": "2023",
+          "part": 10,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 11,
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "part": 12,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 3,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 4,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 5,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 6,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 7,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 8,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 9,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 10,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 11,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 12,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 3,
+          "amount": 0
+        }
+      ],
+      "line": [
+        {
+          "year": "2012",
+          "amount": 0
+        },
+        {
+          "year": "2013",
+          "amount": 0
+        },
+        {
+          "year": "2014",
+          "amount": 0
+        },
+        {
+          "year": "2015",
+          "amount": 0
+        },
+        {
+          "year": "2016",
+          "amount": 0
+        },
+        {
+          "year": "2017",
+          "amount": 0
+        },
+        {
+          "year": "2018",
+          "amount": 0
+        },
+        {
+          "year": "2019",
+          "amount": 0
+        },
+        {
+          "year": "2020",
+          "amount": 0
+        },
+        {
+          "year": "2021",
+          "amount": 0
+        },
+        {
+          "year": "2022",
+          "amount": 0
+        },
+        {
+          "year": "2023",
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "amount": 0
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "tax-deduction_kbk",
+    "data": {
+      "line": [],
+      "pie": []
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "tax-deduction_extended",
+    "data": {
+      "total": 0,
+      "current_page": 1,
+      "last_page": 1,
+      "details": []
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "tax-deduction_dynamics",
+    "data": {
+      "tax_org_name": null,
+      "total_tax_amount": 0,
+      "last_year": "",
+      "tax_dynamics_by_year": [
+        {
+          "year": "2025",
+          "amount": 0,
+          "percentage": 0
+        }
+      ],
+      "tax_dynamics_by_period": [
+        {
+          "year": "2023",
+          "part": 4,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 2,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 3,
+          "amount": 0
+        },
+        {
+          "year": "2024",
+          "part": 4,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 1,
+          "amount": 0
+        },
+        {
+          "year": "2025",
+          "part": 2,
+          "amount": 0
+        }
+      ],
+      "has_auto": false,
+      "no_land": false,
+      "has_property": false
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "rating",
+    "data": {
+      "company": {
+        "shift": "actual",
+        "bin": "000103500974",
+        "short_name": "ИП NURAZH",
+        "critical": {
+          "place": 16548,
+          "amount": "2978.00"
+        },
+        "high": {
+          "place": 16548,
+          "amount": 0
+        },
+        "actual": {
+          "place": 16548,
+          "amount": 0
+        }
+      },
+      "all": [
+        {
+          "place": 1,
+          "amount": "126124427660.00",
+          "bin": "150540002688",
+          "short_name": "ТОО \"KASPI МАГАЗИН\""
+        },
+        {
+          "place": 2,
+          "amount": "48513249924.18",
+          "bin": "220240020422",
+          "short_name": "ТОО \"ИМВБКЗ\""
+        },
+        {
+          "place": 3,
+          "amount": "20923001763.19",
+          "bin": "081040004326",
+          "short_name": "ТОО \"MAGNUM CASH&CARRY\""
+        },
+        {
+          "place": 4,
+          "amount": "20583143992.32",
+          "bin": "090840013770",
+          "short_name": "ТОО \"ARENA S\" (АРЕНА S)"
+        },
+        {
+          "place": 5,
+          "amount": "18150414418.70",
+          "bin": "020340002288",
+          "short_name": "ТОО \"СКИФ ТРЕЙД\""
+        },
+        {
+          "place": 6,
+          "amount": "18130020306.73",
+          "bin": "081140001682",
+          "short_name": "ТОО \"VENDER\""
+        },
+        {
+          "place": 7,
+          "amount": "17814762593.37",
+          "bin": "121140008045",
+          "short_name": "АО \"TECHNODOM OPERATOR\" (ТЕХНОДОМ ОПЕРАТОР)"
+        },
+        {
+          "place": 8,
+          "amount": "15058928798.97",
+          "bin": "100640002890",
+          "short_name": "ТОО \"TEMA RETAIL KZ\" (ТЕМА РЕТЭЙЛ КЗ)"
+        },
+        {
+          "place": 9,
+          "amount": "15028167461.26",
+          "bin": "090740001544",
+          "short_name": "ТОО \"VILED FASHION\" (ВИЛЕД ФЕШН)"
+        },
+        {
+          "place": 10,
+          "amount": "14862186853.55",
+          "bin": "090940003479",
+          "short_name": "ТОО \"РИТЕЙЛ ГРУПП КАЗАХСТАН\""
+        },
+        {
+          "place": 11,
+          "amount": "13654548740.82",
+          "bin": "210540005587",
+          "short_name": "ТОО \"ЯБЛОКО БЬЮТИ МАРКЕТ KZ\""
+        },
+        {
+          "place": 12,
+          "amount": "12636491061.80",
+          "bin": "181040037076",
+          "short_name": "ТОО \"PETRORETAIL\""
+        },
+        {
+          "place": 13,
+          "amount": "12459269138.60",
+          "bin": "121040002914",
+          "short_name": "ТОО \"МЕЧТА МАРКЕТ\""
+        },
+        {
+          "place": 14,
+          "amount": "12427693525.21",
+          "bin": "211040009534",
+          "short_name": "ТОО \"ОЗОН МАРКЕТПЛЕЙС КАЗАХСТАН\""
+        },
+        {
+          "place": 15,
+          "amount": "11282468479.23",
+          "bin": "190640012438",
+          "short_name": "ТОО \"БЭСТ ПРАЙС КАЗАХСТАН\""
+        },
+        {
+          "place": 16,
+          "amount": "10592868948.90",
+          "bin": "111040006142",
+          "short_name": "ТОО \"ДЕТСКИЙ МИР - КАЗАХСТАН\""
+        },
+        {
+          "place": 17,
+          "amount": "10406633541.66",
+          "bin": "160640019152",
+          "short_name": "ТОО \"AMWAY CENTRAL ASIA\""
+        },
+        {
+          "place": 18,
+          "amount": "9841233812.00",
+          "bin": "110440015004",
+          "short_name": "ТОО \"СПОРТМАСТЕР КАЗАХСТАН\""
+        },
+        {
+          "place": 19,
+          "amount": "7924509962.19",
+          "bin": "930340000648",
+          "short_name": "ТОО \"АНВАР\""
+        },
+        {
+          "place": 20,
+          "amount": "6778466304.40",
+          "bin": "040840001482",
+          "short_name": "ТОО \"МЕЛОМАН HOME VIDEO\""
+        },
+        {
+          "place": 21,
+          "amount": "6533001975.71",
+          "bin": "990940004405",
+          "short_name": "ТОО \"ГЕЛИОС\""
+        },
+        {
+          "place": 22,
+          "amount": "6213604839.01",
+          "bin": "170940011080",
+          "short_name": "ТОО \"REDLIGHT\""
+        },
+        {
+          "place": 23,
+          "amount": "6156638767.44",
+          "bin": "210440026536",
+          "short_name": "ТОО \"АЛАТАУ ПРЕМИУМ МУНАЙ\""
+        },
+        {
+          "place": 24,
+          "amount": "6020540027.76",
+          "bin": "070340010694",
+          "short_name": "ТОО \"АДИДАС\""
+        },
+        {
+          "place": 25,
+          "amount": "5450663557.24",
+          "bin": "080140006948",
+          "short_name": "ТОО \"СЕРВИСНЫЙ ЦЕНТР ERG\""
+        },
+        {
+          "place": 26,
+          "amount": "5080989248.13",
+          "bin": "150840017290",
+          "short_name": "ТОО \"SHARCON\""
+        },
+        {
+          "place": 27,
+          "amount": "4971579952.04",
+          "bin": "210140004940",
+          "short_name": "ТОО \"ДНС КАЗАХСТАН\""
+        },
+        {
+          "place": 28,
+          "amount": "4852194730.00",
+          "bin": "140340008559",
+          "short_name": "ТОО \"MONАMIE.KZ\""
+        },
+        {
+          "place": 29,
+          "amount": "4709558237.76",
+          "bin": "150440002852",
+          "short_name": "ТОО \"ALPI-2015\""
+        },
+        {
+          "place": 30,
+          "amount": "4629744718.43",
+          "bin": "000640004487",
+          "short_name": "ТОО \"МЭРИ КЭЙ(КАЗАХСТАН)\""
+        },
+        {
+          "place": 31,
+          "amount": "4617169428.11",
+          "bin": "111140002262",
+          "short_name": "ТОО \"DEFACTO RETAIL STORE KZ\" (\"ДЕФАКТО РЕТЭЙЛ СТОР КЗ\")"
+        },
+        {
+          "place": 32,
+          "amount": "4201947562.79",
+          "bin": "100940016920",
+          "short_name": "ТОО \"МАСТЕР РИТЕЙЛ КАЗАХСТАН\""
+        },
+        {
+          "place": 33,
+          "amount": "4160894765.75",
+          "bin": "060740000779",
+          "short_name": "ТОО \"ИНТЕРТОП ЦЕНТРАЛЬНАЯ АЗИЯ\""
+        },
+        {
+          "place": 34,
+          "amount": "4078141079.60",
+          "bin": "100840011827",
+          "short_name": "ТОО \"DINA MARKET\""
+        },
+        {
+          "place": 35,
+          "amount": "4023265204.58",
+          "bin": "081040013276",
+          "short_name": "ТОО \"GULSER COMPUTERS\" (ГУЛСЕР КОМПЬЮТЕРС)"
+        },
+        {
+          "place": 36,
+          "amount": "3947855955.65",
+          "bin": "120140015907",
+          "short_name": "ТОО \"КОМПАНИЯ ЭВРИКА\""
+        },
+        {
+          "place": 37,
+          "amount": "3776418309.96",
+          "bin": "040740002920",
+          "short_name": "ТОО \"ФРАНЦУЗСКИЙ ДОМ BSB\""
+        },
+        {
+          "place": 38,
+          "amount": "3565558563.40",
+          "bin": "990840000082",
+          "short_name": "ТОО \"TOIMART\""
+        },
+        {
+          "place": 39,
+          "amount": "3484377962.57",
+          "bin": "050340011430",
+          "short_name": "ТОО \"ЗЕРДЕ-ФАРМА\""
+        },
+        {
+          "place": 40,
+          "amount": "3453684770.76",
+          "bin": "120140013059",
+          "short_name": "ТОО \"КАРИ КЗ\""
+        },
+        {
+          "place": 41,
+          "amount": "3335732945.94",
+          "bin": "221240900498",
+          "short_name": "ЧАСТНАЯ КОМПАНИЯ ALKOR KAZAKHSTAN LTD."
+        },
+        {
+          "place": 42,
+          "amount": "3303710514.97",
+          "bin": "220440016617",
+          "short_name": "ТОО \"ТОП КЕРУЕН\""
+        },
+        {
+          "place": 43,
+          "amount": "3214946761.00",
+          "bin": "120441002169",
+          "short_name": "АСТАНИНСКИЙ ФИЛИАЛ ТОО \"СКИФ ТРЕЙД\""
+        },
+        {
+          "place": 44,
+          "amount": "3170170059.43",
+          "bin": "150440021511",
+          "short_name": "ТОО \"МЕЧТА ЖИЗНИ\""
+        },
+        {
+          "place": 45,
+          "amount": "3116092258.78",
+          "bin": "160940027362",
+          "short_name": "ТОО \"ЛЕ МОНЛИД КАЗАХСТАН\""
+        },
+        {
+          "place": 46,
+          "amount": "2994748788.38",
+          "bin": "180340023222",
+          "short_name": "ТОО \"LPP KAZAKHSTAN (ЛПП КАЗАХСТАН)\""
+        },
+        {
+          "place": 47,
+          "amount": "2951322884.77",
+          "bin": "060940004520",
+          "short_name": "ТОО \"АЛМАТЫКІТАП БАСПАСЫ\""
+        },
+        {
+          "place": 48,
+          "amount": "2890137037.71",
+          "bin": "220340031085",
+          "short_name": "ТОО \"ЮНИОН РИТЕЙЛ\""
+        },
+        {
+          "place": 49,
+          "amount": "2886916269.24",
+          "bin": "151040023020",
+          "short_name": "ТОО \"ТОРГСЕРВИС КЗ-1\""
+        },
+        {
+          "place": 50,
+          "amount": "2822129559.24",
+          "bin": "210640039783",
+          "short_name": "ТОО \"MAGNUM E-COMMERCE KAZAKHSTAN\""
+        },
+        {
+          "place": 51,
+          "amount": "2817502042.52",
+          "bin": "141140004759",
+          "short_name": "ТОО \"АВТОГАЗ ТРЭЙД\""
+        },
+        {
+          "place": 52,
+          "amount": "2792446458.85",
+          "bin": "990840001823",
+          "short_name": "ТОО \"ЮНИТАЙР\""
+        },
+        {
+          "place": 53,
+          "amount": "2788536522.50",
+          "bin": "991040000333",
+          "short_name": "ТОО \"ОРИФЛЭЙМ\""
+        },
+        {
+          "place": 54,
+          "amount": "2775396874.33",
+          "bin": "120540007811",
+          "short_name": "ТОО \"ЛУИ ВЮИТТОН КАЗАХСТАН\""
+        },
+        {
+          "place": 55,
+          "amount": "2767434433.11",
+          "bin": "120440007114",
+          "short_name": "ТОО \"KOTON TEXTILE\" (\"КОТОН ТЕКСТИЛЬ\")"
+        },
+        {
+          "place": 56,
+          "amount": "2664691880.00",
+          "bin": "160340028666",
+          "short_name": "ТОО \"ЭЙЧ ЭНД ЭМ ХЕННЕС ЭНД МАУРИЦ КАЗАХСТАН\""
+        },
+        {
+          "place": 57,
+          "amount": "2552968871.65",
+          "bin": "150240013236",
+          "short_name": "ТОО \"FASHION RETAIL GROUP\" /ФЭШН РИТЭЙЛ ГРУП"
+        },
+        {
+          "place": 58,
+          "amount": "2539446078.23",
+          "bin": "201040024605",
+          "short_name": "ТОО \"ПВ-АЗИЯ\""
+        },
+        {
+          "place": 59,
+          "amount": "2440065881.68",
+          "bin": "101040016346",
+          "short_name": "ТОО \"ZETA PLAST\""
+        },
+        {
+          "place": 60,
+          "amount": "2385906446.06",
+          "bin": "950740001426",
+          "short_name": "ТОО \"ЦЕПТЕР ИНТЕРНЕШНЛ\""
+        },
+        {
+          "place": 61,
+          "amount": "2385735298.66",
+          "bin": "111040016774",
+          "short_name": "ТОО \"YMGROUP (УАЙЭМГРУПП)\""
+        },
+        {
+          "place": 62,
+          "amount": "2376106837.00",
+          "bin": "180440040345",
+          "short_name": "ТОО \"YARKANT\""
+        },
+        {
+          "place": 63,
+          "amount": "2375617489.83",
+          "bin": "081040013860",
+          "short_name": "ТОО \"PETROPRIME\""
+        },
+        {
+          "place": 64,
+          "amount": "2358003348.97",
+          "bin": "080640006400",
+          "short_name": "ТОО \"ОСТИН КАЗАХСТАН\""
+        },
+        {
+          "place": 65,
+          "amount": "2287874678.24",
+          "bin": "130640018555",
+          "short_name": "ТОО \"ПРАДА КАЗАХСТАН\""
+        },
+        {
+          "place": 66,
+          "amount": "2224667731.51",
+          "bin": "230840037054",
+          "short_name": "ТОО \"INTERMODE (ИНТЕРМОДЕ)\""
+        },
+        {
+          "place": 67,
+          "amount": "2115585484.40",
+          "bin": "160440004256",
+          "short_name": "ТОО \"ТССП КАЗАХСТАН\""
+        },
+        {
+          "place": 68,
+          "amount": "2097244627.00",
+          "bin": "210740031444",
+          "short_name": "ТОО \"ШАЯ КАЗАХСТАН\""
+        },
+        {
+          "place": 69,
+          "amount": "1980847734.92",
+          "bin": "120440002897",
+          "short_name": "ТОО \"СУПЕРМАРКЕТ \"СОЛНЕЧНЫЙ\""
+        },
+        {
+          "place": 70,
+          "amount": "1968356891.45",
+          "bin": "151040024099",
+          "short_name": "ТОО \"ТОРГСЕРВИС КЗ-2\""
+        },
+        {
+          "place": 71,
+          "amount": "1928927924.98",
+          "bin": "991140001187",
+          "short_name": "ТОО \"МИР\""
+        },
+        {
+          "place": 72,
+          "amount": "1920397999.37",
+          "bin": "170140015540",
+          "short_name": "ТОО \"SURAYA\""
+        },
+        {
+          "place": 73,
+          "amount": "1896977355.82",
+          "bin": "980340000667",
+          "short_name": "ТОО \"ГЭЙТУЭЙ ВЕНЧЕРС (СИ.ЭЙ.) ЛТД\""
+        },
+        {
+          "place": 74,
+          "amount": "1895724001.00",
+          "bin": "160240010095",
+          "short_name": "ТОО \"TEK LED\""
+        },
+        {
+          "place": 75,
+          "amount": "1880080993.92",
+          "bin": "100840010829",
+          "short_name": "ТОО \"ЖЕТІ АСПАН\""
+        },
+        {
+          "place": 76,
+          "amount": "1847482381.93",
+          "bin": "170540005408",
+          "short_name": "ТОО \"АСТАНА СТОР\""
+        },
+        {
+          "place": 77,
+          "amount": "1781133480.62",
+          "bin": "101040001893",
+          "short_name": "ТОО \"MONTFORT\" (МОНФОР)"
+        },
+        {
+          "place": 78,
+          "amount": "1770286502.00",
+          "bin": "170440031824",
+          "short_name": "ТОО \"ТОРГСЕРВИС КЗ-4\""
+        },
+        {
+          "place": 79,
+          "amount": "1703205084.08",
+          "bin": "110440005651",
+          "short_name": "ТОО \"ТОРГОВЫЙ ДОМ INTANT\""
+        },
+        {
+          "place": 80,
+          "amount": "1697973682.00",
+          "bin": "121040010003",
+          "short_name": "ТОО \"ЖЕТІ АСПАН - СЕРВИС\""
+        },
+        {
+          "place": 81,
+          "amount": "1666785607.03",
+          "bin": "071040011951",
+          "short_name": "ТОО \"СИБИРСКОЕ ЗДОРОВЬЕ АСТАНА\""
+        },
+        {
+          "place": 82,
+          "amount": "1660321325.00",
+          "bin": "110140018870",
+          "short_name": "ТОО \"РЕКЛАМИНВЕСТГРУПП\""
+        },
+        {
+          "place": 83,
+          "amount": "1606560743.51",
+          "bin": "151040011304",
+          "short_name": "ТОО \"ЗИЙЛАН КЗ\""
+        },
+        {
+          "place": 84,
+          "amount": "1586322425.24",
+          "bin": "120440008201",
+          "short_name": "ТОО \"BSH HOME APPLIANCES (БСХ ХОУМ АПЛАЙАНСЭС)\""
+        },
+        {
+          "place": 85,
+          "amount": "1582056617.60",
+          "bin": "100640009693",
+          "short_name": "ТОО \"НОВАЯ АЗС\""
+        },
+        {
+          "place": 86,
+          "amount": "1580469405.01",
+          "bin": "091240009138",
+          "short_name": "ТОО \"G AND G ГЛАМУР\""
+        },
+        {
+          "place": 87,
+          "amount": "1576541068.50",
+          "bin": "070440001193",
+          "short_name": "ТОО \"ДОЛГОЛЕТ\""
+        },
+        {
+          "place": 88,
+          "amount": "1568268577.28",
+          "bin": "180340012217",
+          "short_name": "ТОО \"TRUCKMOTORS\""
+        },
+        {
+          "place": 89,
+          "amount": "1563929936.95",
+          "bin": "210340021650",
+          "short_name": "ТОО \"АТОМИ КАЗАХСТАН\""
+        },
+        {
+          "place": 90,
+          "amount": "1543639924.62",
+          "bin": "090840015598",
+          "short_name": "ТОО \"МЕГАСТРОЙ АСТАНА DIY\""
+        },
+        {
+          "place": 91,
+          "amount": "1538337328.54",
+          "bin": "110840011899",
+          "short_name": "ТОО \"BRAND HUB GROUP\" (БРЕНД ХАБ ГРУП)"
+        },
+        {
+          "place": 92,
+          "amount": "1532093478.00",
+          "bin": "080940010539",
+          "short_name": "ТОО \"ROYAL PETROL\""
+        },
+        {
+          "place": 93,
+          "amount": "1514136014.06",
+          "bin": "031140001158",
+          "short_name": "ТОО \"ВИТАЙМ\""
+        },
+        {
+          "place": 94,
+          "amount": "1509460051.53",
+          "bin": "101240017232",
+          "short_name": "ТОО \"KST TRADE\""
+        },
+        {
+          "place": 95,
+          "amount": "1494975650.24",
+          "bin": "111240016563",
+          "short_name": "ТОО \"ДАРИЯ-2012\""
+        },
+        {
+          "place": 96,
+          "amount": "1447647618.00",
+          "bin": "070640009532",
+          "short_name": "ТОО \"ЛЮДМИЛА-KZ\""
+        },
+        {
+          "place": 97,
+          "amount": "1438844168.56",
+          "bin": "040840000520",
+          "short_name": "ТОО \"VILED GROUP\" (ВИЛЕД ГРУП)"
+        },
+        {
+          "place": 98,
+          "amount": "1435754272.73",
+          "bin": "070540014238",
+          "short_name": "ТОО \"PLAZA DELUXE\""
+        },
+        {
+          "place": 99,
+          "amount": "1415476863.00",
+          "bin": "100940017275",
+          "short_name": "ТОО \"БЭСТ РИТЕЙЛ КАЗАХСТАН\""
+        },
+        {
+          "place": 100,
+          "amount": "1406974166.80",
+          "bin": "010640005816",
+          "short_name": "ТОО \"ФАХРАД\""
+        },
+        {
+          "place": 513,
+          "amount": "225699762.44",
+          "bin": "100940017126",
+          "short_name": "ТОО \"ФЭШН РИТЕЙЛ КАЗАХСТАН\""
+        },
+        {
+          "place": 1025,
+          "amount": "97271316.17",
+          "bin": "070540003480",
+          "short_name": "ТОО \"FORA TRADE\""
+        },
+        {
+          "place": 1537,
+          "amount": "55667315.59",
+          "bin": "200240015452",
+          "short_name": "ТОО \"METAEXPRESS\""
+        },
+        {
+          "place": 2049,
+          "amount": "36176766.00",
+          "bin": "210740021516",
+          "short_name": "ТОО \"GRENADA TRADE\""
+        },
+        {
+          "place": 2561,
+          "amount": "25066989.00",
+          "bin": "170340007794",
+          "short_name": "ТОО \"А К КАПИТАЛ\""
+        },
+        {
+          "place": 3073,
+          "amount": "18258425.00",
+          "bin": "130540009017",
+          "short_name": "ТОО \"ART LIGHT LTD\""
+        },
+        {
+          "place": 3585,
+          "amount": "14151624.22",
+          "bin": "031141007408",
+          "short_name": "ФИЛИАЛ ТОО\"АУРИКА\" В Г.СТЕПНОГОРСК"
+        },
+        {
+          "place": 4097,
+          "amount": "11013263.00",
+          "bin": "170640008852",
+          "short_name": "ТОО \"АХУНДОВ\""
+        },
+        {
+          "place": 4609,
+          "amount": "8850230.60",
+          "bin": "220140000642",
+          "short_name": "ТОО \"BAYZAK PHARM\""
+        },
+        {
+          "place": 5121,
+          "amount": "7307927.00",
+          "bin": "000841004752",
+          "short_name": "ФИЛИАЛ ТОО \"ЛУЧ\""
+        },
+        {
+          "place": 5633,
+          "amount": "5990132.08",
+          "bin": "240740022490",
+          "short_name": "ТОО \"КЕТАЛЕЦ\""
+        },
+        {
+          "place": 6145,
+          "amount": "4936629.36",
+          "bin": "001140003327",
+          "short_name": "ТОО \"АСЫЛ-А\""
+        },
+        {
+          "place": 6657,
+          "amount": "4164101.00",
+          "bin": "141040020252",
+          "short_name": "ТОО \"KZ-TRADING\""
+        },
+        {
+          "place": 7169,
+          "amount": "3493022.00",
+          "bin": "230340033509",
+          "short_name": "ТОО \"SL TECHNOLOGY\""
+        },
+        {
+          "place": 7681,
+          "amount": "2958834.00",
+          "bin": "140740026343",
+          "short_name": "ТОО \"SK COMPANY 2014\""
+        },
+        {
+          "place": 8193,
+          "amount": "2540691.00",
+          "bin": "190540000788",
+          "short_name": "ТОО \"AZS-SERVICE\""
+        },
+        {
+          "place": 8705,
+          "amount": "2245404.00",
+          "bin": "200640011484",
+          "short_name": "ТОО \"BEST EMBRACE\""
+        },
+        {
+          "place": 9217,
+          "amount": "1999559.00",
+          "bin": "190340001676",
+          "short_name": "ТОО \"KPS COMPANY\""
+        },
+        {
+          "place": 9729,
+          "amount": "1732999.00",
+          "bin": "220540021015",
+          "short_name": "ТОО \"ТЕХНОКРАТ 4.0\""
+        },
+        {
+          "place": 10241,
+          "amount": "1488906.00",
+          "bin": "221140053666",
+          "short_name": "ТОО \"\"SATAY STROY GROUP\"\""
+        },
+        {
+          "place": 10753,
+          "amount": "1275609.12",
+          "bin": "241140000490",
+          "short_name": "ТОО \"КАЗСТРОЙКОМФОРТ-К\""
+        },
+        {
+          "place": 11265,
+          "amount": "1093560.00",
+          "bin": "220840031033",
+          "short_name": "ТОО \"ДЕСТИНИ\""
+        },
+        {
+          "place": 11777,
+          "amount": "922643.00",
+          "bin": "161240001881",
+          "short_name": "ТОО \"ARISTA TRADE\""
+        },
+        {
+          "place": 12289,
+          "amount": "775666.00",
+          "bin": "230440033413",
+          "short_name": "ТОО \"BRANDS CLUB\""
+        },
+        {
+          "place": 12801,
+          "amount": "649172.00",
+          "bin": "170340000569",
+          "short_name": "ТОО \"МЕБЕЛЬ ГРЭЙН\""
+        },
+        {
+          "place": 13313,
+          "amount": "534545.00",
+          "bin": "200840007344",
+          "short_name": "ТОО \"A-SHOP\""
+        },
+        {
+          "place": 13825,
+          "amount": "441548.00",
+          "bin": "211040029965",
+          "short_name": "ТОО \"PROFIT MAGNET R\""
+        },
+        {
+          "place": 14337,
+          "amount": "357836.00",
+          "bin": "230240035809",
+          "short_name": "ТОО \"КОЛОМНИКОВА\""
+        },
+        {
+          "place": 14849,
+          "amount": "287366.00",
+          "bin": "200940034246",
+          "short_name": "ТОО \"ОХОТНИК07\""
+        },
+        {
+          "place": 15361,
+          "amount": "230206.00",
+          "bin": "170740013585",
+          "short_name": "ТОО \"FINNTEX\""
+        },
+        {
+          "place": 15873,
+          "amount": "183391.24",
+          "bin": "240340006961",
+          "short_name": "ТОО \"RED TECHNO GROUP\""
+        },
+        {
+          "place": 16385,
+          "amount": "125105.00",
+          "bin": "230940008807",
+          "short_name": "ТОО \"BIOTIKA\""
+        },
+        {
+          "place": 16543,
+          "amount": "111264.00",
+          "bin": "240740019847",
+          "short_name": "ТОО \"INTI-PHARMA\""
+        },
+        {
+          "place": 16544,
+          "amount": "111193.00",
+          "bin": "221140012649",
+          "short_name": "ТОО \"EUROASIA TECHNOLOGY (ЕУРОАЗИЯ ТЕХНОЛОДЖИ)\""
+        },
+        {
+          "place": 16545,
+          "amount": "111075.00",
+          "bin": "200940019014",
+          "short_name": "ТОО \"МАҚСАТ ТОҚАЙ\""
+        },
+        {
+          "place": 16546,
+          "amount": "110964.00",
+          "bin": "220840006191",
+          "short_name": "ТОО \"САЛИХАТ 18\""
+        },
+        {
+          "place": 16547,
+          "amount": "110960.00",
+          "bin": "131140025116",
+          "short_name": "ТОО \" РАИМАФАРМА\""
+        },
+        {
+          "place": 16548,
+          "amount": 0,
+          "bin": "000103500974",
+          "short_name": "ИП NURAZH"
+        },
+        {
+          "place": 16549,
+          "amount": "110868.00",
+          "bin": "960540009406",
+          "short_name": "ТОО \"МАГНАТ\""
+        },
+        {
+          "place": 16550,
+          "amount": "110760.00",
+          "bin": "230740013529",
+          "short_name": "ТОО \"AL QASR (АЛЬ-КАСР)\""
+        },
+        {
+          "place": 16551,
+          "amount": "110760.00",
+          "bin": "211240011850",
+          "short_name": "ТОО \"SITI MED FARM\""
+        },
+        {
+          "place": 16552,
+          "amount": "110760.00",
+          "bin": "230640027684",
+          "short_name": "ТОО \"AKBARI GROUP\""
+        },
+        {
+          "place": 16553,
+          "amount": "110760.00",
+          "bin": "230940020033",
+          "short_name": "ТОО \"MERDAN COMPANY\""
+        },
+        {
+          "place": 16897,
+          "amount": "81662.00",
+          "bin": "241240007243",
+          "short_name": "ТОО \"БАГДАС\""
+        },
+        {
+          "place": 17409,
+          "amount": "43827.99",
+          "bin": "240340010551",
+          "short_name": "ТОО \"ЗАМИГ\""
+        },
+        {
+          "place": 17921,
+          "amount": "19500.00",
+          "bin": "230140009380",
+          "short_name": "ТОО \"COMPANY GLOBAL PLUS\""
+        },
+        {
+          "place": 18433,
+          "amount": "2978.00",
+          "bin": "141040013369",
+          "short_name": "ТОО \"БАРАКАТ НУР\""
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "market-dynamics",
+    "data": {
+      "company": [
+        {
+          "year": "2013",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2014",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2015",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2016",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2017",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2018",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2019",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2020",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2021",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2022",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2023",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2024",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2025",
+          "amount": 0,
+          "place": 0
+        },
+        {
+          "year": "2012",
+          "amount": 0,
+          "place": null
+        },
+        {
+          "year": "2011",
+          "amount": 0,
+          "place": null
+        },
+        {
+          "year": "2010",
+          "amount": 0,
+          "place": null
+        }
+      ],
+      "market": [
+        {
+          "year": "2013",
+          "amount": 650,
+          "quantity": 2
+        },
+        {
+          "year": "2014",
+          "amount": 63000,
+          "quantity": 2
+        },
+        {
+          "year": "2015",
+          "amount": 170093977475.6,
+          "quantity": 9146
+        },
+        {
+          "year": "2016",
+          "amount": 203587106952.03,
+          "quantity": 10043
+        },
+        {
+          "year": "2017",
+          "amount": 237859375853.76,
+          "quantity": 11271
+        },
+        {
+          "year": "2018",
+          "amount": 284274439840.95,
+          "quantity": 13798
+        },
+        {
+          "year": "2019",
+          "amount": 341881591448.43,
+          "quantity": 14891
+        },
+        {
+          "year": "2020",
+          "amount": 379028287155.77,
+          "quantity": 15312
+        },
+        {
+          "year": "2021",
+          "amount": 539011052791.38,
+          "quantity": 16094
+        },
+        {
+          "year": "2022",
+          "amount": 735944491009.88,
+          "quantity": 17758
+        },
+        {
+          "year": "2023",
+          "amount": 933630645970.59,
+          "quantity": 19760
+        },
+        {
+          "year": "2024",
+          "amount": 1054546277517.77,
+          "quantity": 19512
+        },
+        {
+          "year": "2025",
+          "amount": 258836010918,
+          "quantity": 15036
+        },
+        {
+          "year": "2012",
+          "amount": 0,
+          "quantity": null
+        },
+        {
+          "year": "2011",
+          "amount": 0,
+          "quantity": null
+        },
+        {
+          "year": "2010",
+          "amount": 0,
+          "quantity": null
+        }
+      ]
+    },
+    "status": "ready"
+  },
+  {
+    "bin": "000103500974",
+    "endpoint": "contract_status",
+    "data": {
+      "total_count": 0,
+      "total_sum": 0,
+      "years": []
+    },
+    "status": "ready"
   }
 ]
