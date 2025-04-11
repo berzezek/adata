@@ -15,13 +15,13 @@ def process_data():
     end_tokens_time = time.perf_counter()
     tokens_duration = end_tokens_time - start_tokens_time
 
-    print("⏳ Таймер запущен на 5 минут...")
-    time.sleep(300)
-    print("⏰ Время истекло!")
+    # print("⏳ Таймер запущен на 5 минут...")
+    # time.sleep()
+    # print("⏰ Время истекло!")
 
     # Таймер для get_data()
     start_data_time = time.perf_counter()
-    get_data()
+    get_data(start_index, end_index)
     end_data_time = time.perf_counter()
     data_duration = end_data_time - start_data_time
 
