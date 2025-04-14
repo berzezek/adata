@@ -23,7 +23,10 @@ api_endpoints = {
     "contract_status": "api/company/contract/status/",
 }
 
-proxy_url = os.getenv("HTTPS_PROXY")
+proxie_urls = {
+    "http": os.getenv("HTTP_PROXY"),
+    "https": os.getenv("HTTPS_PROXY"),
+}
 base_url = "https://api.adata.kz/"
 API_TOKEN = os.getenv("API_TOKEN")
 batch_size = int(os.getenv("BATCH_SIZE"))
@@ -39,13 +42,13 @@ df = df[~df['bin'].isin(exclude['bin'])]
 # print(df, df.shape)
 
 
-def send_request(api_name, api_endpoint, bin, retries=3, delay=30):
+def send_request(api_name, api_endpoint, bin, proxies, retries=3, delay=30):
     """Отправляет GET-запрос к API через прокси"""
     url = f"{base_url}{api_endpoint}{API_TOKEN}?iinBin={bin}"
     
     for attempt in range(retries):
         try:
-            response = requests.get(url, proxies={"https": proxy_url}, verify=False, timeout=30)
+            response = requests.get(url, proxies=proxies, verify=False, timeout=30)
             if response.status_code == 200:
                 data = response.json()
                 if data.get("success") and "token" in data:
@@ -74,7 +77,7 @@ def send_request(api_name, api_endpoint, bin, retries=3, delay=30):
     
     return {"bin": bin, "endpoint": api_name, "error": "Failed after retries"}
 
-def process_batches(start_index, end_index):
+def process_batches(start_index, end_index, proxies):
     """Обрабатывает запросы пакетами по batch_size"""
     responses = []
     processed_bins = 0
@@ -89,7 +92,7 @@ def process_batches(start_index, end_index):
 
             for bin_value in batch:
                 for key, value in api_endpoints.items():
-                    response = send_request(key, value, bin_value)
+                    response = send_request(key, value, bin_value, proxies)
                     responses.append(response)
 
                     # Ожидание в 1 секунду между запросами
@@ -140,10 +143,10 @@ def log_error(error_data):
     with open(ERROR_LOG_FILE, "w", encoding="utf-8") as file:
         json.dump(existing_errors, file, ensure_ascii=False, indent=4)
 
-def get_tokens(start_index, end_index):
-    process_batches(start_index, end_index)
+def get_tokens(start_index, end_index, proxies):
+    process_batches(start_index, end_index, proxies)
 
 if __name__ == "__main__":
     start_index = int(input("Введите начальный индекс BIN: "))
     end_index = int(input("Введите конечный индекс BIN: "))
-    get_tokens(start_index, end_index)
+    get_tokens(start_index, end_index, proxie_urls)

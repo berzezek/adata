@@ -10,7 +10,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 load_dotenv()
 
-proxies = {
+proxie_urls = {
     "http": os.getenv("HTTP_PROXY"),
     "https": os.getenv("HTTPS_PROXY"),
 }
@@ -23,7 +23,7 @@ ERROR_LOG_FILE = "response_tokens/error_log_token_responses.json"
 import requests
 import time
 
-def send_get_request(token, bin, endpoint, retries=3, delay=30):
+def send_get_request(token, bin, endpoint, proxies, retries=3, delay=30):
     """Отправляет GET-запрос и возвращает данные для последующей записи"""
     url = f"{base_url}{API_TOKEN}?token={token}"
     for attempt in range(retries):
@@ -57,7 +57,7 @@ def send_get_request(token, bin, endpoint, retries=3, delay=30):
     return {"bin": bin, "endpoint": endpoint, "error": "Failed after retries"}
 
 
-def process_batches(start_index, end_index):
+def process_batches(start_index, end_index, proxies):
     """Обрабатывает запросы пакетами по batch_size"""
     responses = load_responses(f"response_tokens/response_tokens_{start_index}_{end_index}.json")
     if not isinstance(responses, list):
@@ -80,7 +80,7 @@ def process_batches(start_index, end_index):
                     # Проверяем, что токен, BIN и endpoint существуют
                     if response.get("token") and response.get("bin") and response.get("endpoint"):
                         # Выполняем запрос для каждого BIN
-                        result = send_get_request(response["token"], response["bin"], response["endpoint"])
+                        result = send_get_request(response["token"], response["bin"], response["endpoint"], proxies)
                         if result:
                             if result["status"] == "wait":
                                 wait_data.append(result)
@@ -152,10 +152,10 @@ def load_responses(filename="response_tokens/response_tokens.json"):
     except json.JSONDecodeError:
         return {"error": "Ошибка декодирования JSON"}
 
-def get_data(start_index, end_index):
-    process_batches(start_index, end_index)
+def get_data(start_index, end_index, proxies):
+    process_batches(start_index, end_index, proxies)
 
 if __name__ == "__main__":
     start_index = int(input("Введите начальный индекс BIN: "))
     end_index = int(input("Введите конечный индекс BIN: "))
-    get_data(start_index, end_index)
+    get_data(start_index, end_index, proxie_urls)

@@ -1,0 +1,14 @@
+[
+    {
+        "bin": "000103500974",
+        "endpoint": "info",
+        "status": 400,
+        "error": "Server error or timeout"
+    },
+    {
+        "bin": "021018500443",
+        "endpoint": "info",
+        "status": 400,
+        "error": "Server error or timeout"
+    }
+]
