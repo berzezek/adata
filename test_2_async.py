@@ -54,7 +54,7 @@ def send_get_request(token, bin, endpoint, proxies, retries=3, delay=30):
             print(f"🔄 Ожидание {delay} секунд перед повторной попыткой...")
             time.sleep(delay)
 
-    return {"bin": bin, "endpoint": endpoint, "error": "Failed after retries"}
+    return {"bin": bin, "endpoint": endpoint, "status": "Failed after retries"}
 
 
 def process_batches(start_index, end_index, proxies):
@@ -88,7 +88,7 @@ def process_batches(start_index, end_index, proxies):
                                 ready_data.append(result)
                             elif result["status"] == "not_found":
                                 not_found_data.append(result)
-                            elif result["status"] == "server error":
+                            else:
                                 error.append(result)
 
                         # Добавляем паузу в 1 секунду между запросами
