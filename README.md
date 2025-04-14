@@ -137,9 +137,9 @@ test_2_async.py считывает токены из response_tokens.json и з�
   
   * 15.04.2025:
 ```bash
-python report.py 3000 6000 --no-proxy
+python main.py 3000 6000 --no-proxy
 ```
   * 16.04.2025:
 ```bash
-python report.py 6000 9000 --no-proxy
+python main.py 6000 9000 --no-proxy
 ```
