@@ -23,13 +23,21 @@ api_endpoints = {
     "contract_status": "api/company/contract/status/",
 }
 
-# proxy_url = os.getenv("HTTPS_PROXY")
+proxy_url = os.getenv("HTTPS_PROXY")
 base_url = "https://api.adata.kz/"
 API_TOKEN = os.getenv("API_TOKEN")
 batch_size = int(os.getenv("BATCH_SIZE"))
 ERROR_LOG_FILE = "error_log.json"
 
 df = pd.read_excel("data.xlsx")
+# print(df, df.shape)
+
+exclude = pd.read_csv("exclude.csv", dtype={"bin": str})
+# print(exclude, exclude.shape)
+
+df = df[~df['bin'].isin(exclude['bin'])]
+# print(df, df.shape)
+
 
 def send_request(api_name, api_endpoint, bin, retries=3, delay=30):
     """Отправляет GET-запрос к API через прокси"""
@@ -37,7 +45,7 @@ def send_request(api_name, api_endpoint, bin, retries=3, delay=30):
     
     for attempt in range(retries):
         try:
-            response = requests.get(url, verify=False, timeout=30) # , proxies={"https": proxy_url}
+            response = requests.get(url, proxies={"https": proxy_url}, verify=False, timeout=30)
             if response.status_code == 200:
                 data = response.json()
                 if data.get("success") and "token" in data:
@@ -47,11 +55,12 @@ def send_request(api_name, api_endpoint, bin, retries=3, delay=30):
                     return {"error": f"Success response received, but no token found for BIN {bin}"}
             elif response.status_code == 404:
                 return {"bin": bin, "endpoint": api_name, "token": None, "status": "not_found"}
-            elif response.status_code in (500, 504):
+            # elif response.status_code in (500, 504):
+            else:
                 log_error({"bin": bin, "endpoint": api_name, "status": response.status_code, "error": "Server error or timeout"})
                 print(f"⚠️ Попытка {attempt + 1}/{retries}: Сервер вернул {response.status_code} (BIN {bin})")
-            else:
-                return {"error": f"Request failed with status {response.status_code}"}
+            # else:
+            #     return {"error": f"Request failed with status {response.status_code}"}
         except requests.exceptions.Timeout:
             log_error({"bin": bin, "endpoint": api_name, "error": "Timeout error"})
             print(f"⏳ Тайм-аут для BIN {bin}. Попытка {attempt + 1}/{retries}...")
