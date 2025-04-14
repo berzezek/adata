@@ -27,7 +27,7 @@ proxy_url = os.getenv("HTTPS_PROXY")
 base_url = "https://api.adata.kz/"
 API_TOKEN = os.getenv("API_TOKEN")
 batch_size = int(os.getenv("BATCH_SIZE"))
-ERROR_LOG_FILE = "error_log.json"
+ERROR_LOG_FILE = "response_tokens/error_log.json"
 
 df = pd.read_excel("data.xlsx")
 # print(df, df.shape)
@@ -111,10 +111,10 @@ def process_batches(start_index, end_index):
     finally:
         # Сохранение данных в файл
         print("📄 Сохранение данных при завершении...")
-        save_responses_to_file(responses)
+        save_responses_to_file(responses, f"response_tokens/response_tokens_{start_index}_{end_index}.json")
         print("\n✅ Данные записаны!")
 
-def save_responses_to_file(response_list, filename="response_tokens.json"):
+def save_responses_to_file(response_list, filename="response_tokens/response_tokens.json"):
     """Записывает список ответов в JSON-файл"""
     try:
         with open(filename, "r", encoding="utf-8") as file:
